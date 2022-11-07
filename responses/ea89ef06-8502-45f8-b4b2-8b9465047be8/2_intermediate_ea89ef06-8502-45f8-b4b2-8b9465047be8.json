@@ -1,0 +1,64 @@
+{
+    "values": [
+        {
+            "self": "https://eastasia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/ea89ef06-8502-45f8-b4b2-8b9465047be8/files/8594f2f1-37e7-49c2-90df-e6e06a99bd06",
+            "name": "report.json",
+            "kind": "TranscriptionReport",
+            "properties": {
+                "size": 636
+            },
+            "createdDateTime": "2022-11-06T08:21:10Z",
+            "links": {
+                "contentUrl": "https://spsvcprodae.blob.core.windows.net/bestor-1ac74883-7268-4fe4-a91c-d7be81185064/TranscriptionData/ea89ef06-8502-45f8-b4b2-8b9465047be8_report.json?sv=2021-08-06&st=2022-11-06T08%3A17%3A40Z&se=2022-11-06T20%3A22%3A40Z&sr=b&sp=rl&sig=O5JFd2UYiaxZExK0XFqVPnST1X1p76O3D54c7YLb71o%3D"
+            }
+        },
+        {
+            "self": "https://eastasia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/ea89ef06-8502-45f8-b4b2-8b9465047be8/files/6fcfb42c-a9c2-4258-8477-3c6eb8adb620",
+            "name": "testcontainer2202/test.wav.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 45009
+            },
+            "createdDateTime": "2022-11-06T08:21:10Z",
+            "links": {
+                "contentUrl": "https://spsvcprodae.blob.core.windows.net/bestor-1ac74883-7268-4fe4-a91c-d7be81185064/TranscriptionData/ea89ef06-8502-45f8-b4b2-8b9465047be8_0_0.json?sv=2021-08-06&st=2022-11-06T08%3A17%3A40Z&se=2022-11-06T20%3A22%3A40Z&sr=b&sp=rl&sig=0D8nJQLVYvOz1WePlKuHL30EXz%2Fk6Lx3tk803lvrVDE%3D"
+            }
+        },
+        {
+            "self": "https://eastasia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/ea89ef06-8502-45f8-b4b2-8b9465047be8/files/afa7a74d-1b24-4997-a465-bb580349ab55",
+            "name": "testcontainer2202/test2.wav.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 31386
+            },
+            "createdDateTime": "2022-11-06T08:21:10Z",
+            "links": {
+                "contentUrl": "https://spsvcprodae.blob.core.windows.net/bestor-1ac74883-7268-4fe4-a91c-d7be81185064/TranscriptionData/ea89ef06-8502-45f8-b4b2-8b9465047be8_0_1.json?sv=2021-08-06&st=2022-11-06T08%3A17%3A40Z&se=2022-11-06T20%3A22%3A40Z&sr=b&sp=rl&sig=EaRp9KGQ0CRFJXEuA59PftoJuco5oJ2v%2B0hBijbZtZI%3D"
+            }
+        },
+        {
+            "self": "https://eastasia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/ea89ef06-8502-45f8-b4b2-8b9465047be8/files/731aa718-469c-4395-9008-7ce60be909b1",
+            "name": "testcontainer2202/test3.wav.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 30823
+            },
+            "createdDateTime": "2022-11-06T08:21:10Z",
+            "links": {
+                "contentUrl": "https://spsvcprodae.blob.core.windows.net/bestor-1ac74883-7268-4fe4-a91c-d7be81185064/TranscriptionData/ea89ef06-8502-45f8-b4b2-8b9465047be8_0_2.json?sv=2021-08-06&st=2022-11-06T08%3A17%3A40Z&se=2022-11-06T20%3A22%3A40Z&sr=b&sp=rl&sig=ElRwXEL6PLQdqlPQOJO2wKDn%2FImsnvlvUhyksKcmX%2B8%3D"
+            }
+        },
+        {
+            "self": "https://eastasia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/ea89ef06-8502-45f8-b4b2-8b9465047be8/files/b2b67eff-1f1b-443d-a3e9-d78ba6ae97ef",
+            "name": "testcontainer2202/testvideo.wav.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 163909
+            },
+            "createdDateTime": "2022-11-06T08:21:10Z",
+            "links": {
+                "contentUrl": "https://spsvcprodae.blob.core.windows.net/bestor-1ac74883-7268-4fe4-a91c-d7be81185064/TranscriptionData/ea89ef06-8502-45f8-b4b2-8b9465047be8_0_3.json?sv=2021-08-06&st=2022-11-06T08%3A17%3A40Z&se=2022-11-06T20%3A22%3A40Z&sr=b&sp=rl&sig=A22i8UwigWAtdd%2B4rX0oIISLzZ7HnLM9jgSOAI67tyk%3D"
+            }
+        }
+    ]
+}

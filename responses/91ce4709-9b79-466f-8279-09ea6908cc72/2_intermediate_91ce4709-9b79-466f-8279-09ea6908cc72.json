@@ -1,0 +1,52 @@
+{
+    "values": [
+        {
+            "self": "https://eastasia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/91ce4709-9b79-466f-8279-09ea6908cc72/files/3b9327c2-b6a3-4b94-b3c1-a4c9a56c1dd7",
+            "name": "report.json",
+            "kind": "TranscriptionReport",
+            "properties": {
+                "size": 497
+            },
+            "createdDateTime": "2022-11-06T05:54:06Z",
+            "links": {
+                "contentUrl": "https://spsvcprodae.blob.core.windows.net/bestor-1ac74883-7268-4fe4-a91c-d7be81185064/TranscriptionData/91ce4709-9b79-466f-8279-09ea6908cc72_report.json?sv=2021-08-06&st=2022-11-06T07%3A30%3A05Z&se=2022-11-06T19%3A35%3A05Z&sr=b&sp=rl&sig=x%2BCR0bVaHscspaqqoQLc6qQF1wyAjQG1taDzXtFIu%2Bs%3D"
+            }
+        },
+        {
+            "self": "https://eastasia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/91ce4709-9b79-466f-8279-09ea6908cc72/files/c67c4801-338d-49be-845e-7609df4b9bf1",
+            "name": "testcontainer2202/test.wav.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 45032
+            },
+            "createdDateTime": "2022-11-06T05:54:06Z",
+            "links": {
+                "contentUrl": "https://spsvcprodae.blob.core.windows.net/bestor-1ac74883-7268-4fe4-a91c-d7be81185064/TranscriptionData/91ce4709-9b79-466f-8279-09ea6908cc72_0_0.json?sv=2021-08-06&st=2022-11-06T07%3A30%3A05Z&se=2022-11-06T19%3A35%3A05Z&sr=b&sp=rl&sig=Xgr1FeVeMc2uI1ZQEOGXCXi0aOb%2Fm29i5eZf2sr19Vs%3D"
+            }
+        },
+        {
+            "self": "https://eastasia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/91ce4709-9b79-466f-8279-09ea6908cc72/files/0276eb4b-f285-4acd-adc8-b2f1ae6db318",
+            "name": "testcontainer2202/test2.wav.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 31386
+            },
+            "createdDateTime": "2022-11-06T05:54:06Z",
+            "links": {
+                "contentUrl": "https://spsvcprodae.blob.core.windows.net/bestor-1ac74883-7268-4fe4-a91c-d7be81185064/TranscriptionData/91ce4709-9b79-466f-8279-09ea6908cc72_0_1.json?sv=2021-08-06&st=2022-11-06T07%3A30%3A05Z&se=2022-11-06T19%3A35%3A05Z&sr=b&sp=rl&sig=olEkd03rSvw%2BS9AjSaKUj3Xo0PH4KF72wBVuD8Anmm4%3D"
+            }
+        },
+        {
+            "self": "https://eastasia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/91ce4709-9b79-466f-8279-09ea6908cc72/files/5e83e189-00c7-4757-8467-aeddafa0bfd7",
+            "name": "testcontainer2202/test3.wav.json",
+            "kind": "Transcription",
+            "properties": {
+                "size": 30823
+            },
+            "createdDateTime": "2022-11-06T05:54:06Z",
+            "links": {
+                "contentUrl": "https://spsvcprodae.blob.core.windows.net/bestor-1ac74883-7268-4fe4-a91c-d7be81185064/TranscriptionData/91ce4709-9b79-466f-8279-09ea6908cc72_0_2.json?sv=2021-08-06&st=2022-11-06T07%3A30%3A05Z&se=2022-11-06T19%3A35%3A05Z&sr=b&sp=rl&sig=41fHDwK%2FLG1h00ulGIDAlgjfeF7Bgb2%2BfRcww8%2FGV88%3D"
+            }
+        }
+    ]
+}

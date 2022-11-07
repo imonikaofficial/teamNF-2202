@@ -1,0 +1,11 @@
+Results for test.wav.json
+	Recognized: Next, create a variable to manage the state of speech recognition. Set the variable to folks because at the start of recognition you can safely assume there is not finish.
+Results for test2.wav.json
+	Recognized: Stop process call should only be redirected to Fox.
+	Recognized: Stop process call should only be redirected to Fox.
+Results for test3.wav.json
+	Recognized: And say something. Say something. You ******* live.
+	Recognized: And say something. Say something. You ******* live.
+Results for testvideo.wav.json
+	Recognized: Put my put my **** back on this ******* point. Yeah, yeah. I saw you when you got out. Run put my **** back on his ************* porch, you know, lost your ****** ******* mind. You would come up on my **** and take my ****. You lucky, you got it. You're lucky, ************.
+	Recognized: Put my put my **** back on this ******* phone, man. Yeah, yeah, I I saw you when you got out the money. Put my **** back on his ************* porch so you don't lose your ****** ******* mind. You don't come up on my **** and take my ****. You got. You're lucky. You're lucky, ************.

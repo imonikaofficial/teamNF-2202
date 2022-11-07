@@ -1,0 +1,1319 @@
+{
+    "source": "https://02projectstorage.blob.core.windows.net/test1/test.wav",
+    "timestamp": "2022-11-06T09:57:28Z",
+    "durationInTicks": 126300000,
+    "duration": "PT12.63S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "next create a variable to manage the state of speech recognition set the variable to folks because at the start of recognition you can safely assume there is not finish",
+            "itn": "next create a variable to manage the state of speech recognition set the variable to folks because at the start of recognition you can safely assume there is not finish",
+            "maskedITN": "next create a variable to manage the state of speech recognition set the variable to folks because at the start of recognition you can safely assume there is not finish",
+            "display": "Next, create a variable to manage the state of speech recognition. Set the variable to folks because at the start of recognition you can safely assume there is not finish."
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT1.81S",
+            "duration": "PT4.04S",
+            "offsetInTicks": 18100000.0,
+            "durationInTicks": 40400000.0,
+            "nBest": [
+                {
+                    "confidence": 0.8109815,
+                    "lexical": "next create a variable to manage the state of speech recognition",
+                    "itn": "next create a variable to manage the state of speech recognition",
+                    "maskedITN": "next create a variable to manage the state of speech recognition",
+                    "display": "Next, create a variable to manage the state of speech recognition.",
+                    "words": [
+                        {
+                            "word": "next",
+                            "offset": "PT1.81S",
+                            "duration": "PT0.58S",
+                            "offsetInTicks": 18100000.0,
+                            "durationInTicks": 5800000.0,
+                            "confidence": 0.42403752
+                        },
+                        {
+                            "word": "create",
+                            "offset": "PT2.4S",
+                            "duration": "PT0.32S",
+                            "offsetInTicks": 24000000.0,
+                            "durationInTicks": 3200000.0,
+                            "confidence": 0.59615827
+                        },
+                        {
+                            "word": "a",
+                            "offset": "PT2.73S",
+                            "duration": "PT0.07S",
+                            "offsetInTicks": 27300000.0,
+                            "durationInTicks": 700000.0,
+                            "confidence": 0.77324116
+                        },
+                        {
+                            "word": "variable",
+                            "offset": "PT2.81S",
+                            "duration": "PT0.58S",
+                            "offsetInTicks": 28100000.0,
+                            "durationInTicks": 5800000.0,
+                            "confidence": 0.90865815
+                        },
+                        {
+                            "word": "to",
+                            "offset": "PT3.45S",
+                            "duration": "PT0.13S",
+                            "offsetInTicks": 34500000.0,
+                            "durationInTicks": 1300000.0,
+                            "confidence": 0.8898939
+                        },
+                        {
+                            "word": "manage",
+                            "offset": "PT3.59S",
+                            "duration": "PT0.41S",
+                            "offsetInTicks": 35900000.0,
+                            "durationInTicks": 4100000.0,
+                            "confidence": 0.85804075
+                        },
+                        {
+                            "word": "the",
+                            "offset": "PT4.01S",
+                            "duration": "PT0.11S",
+                            "offsetInTicks": 40100000.0,
+                            "durationInTicks": 1100000.0,
+                            "confidence": 0.80087316
+                        },
+                        {
+                            "word": "state",
+                            "offset": "PT4.13S",
+                            "duration": "PT0.25S",
+                            "offsetInTicks": 41300000.0,
+                            "durationInTicks": 2500000.0,
+                            "confidence": 0.96286035
+                        },
+                        {
+                            "word": "of",
+                            "offset": "PT4.44S",
+                            "duration": "PT0.28S",
+                            "offsetInTicks": 44400000.0,
+                            "durationInTicks": 2800000.0,
+                            "confidence": 0.9224306
+                        },
+                        {
+                            "word": "speech",
+                            "offset": "PT4.73S",
+                            "duration": "PT0.48S",
+                            "offsetInTicks": 47300000.0,
+                            "durationInTicks": 4800000.0,
+                            "confidence": 0.8713348
+                        },
+                        {
+                            "word": "recognition",
+                            "offset": "PT5.22S",
+                            "duration": "PT0.63S",
+                            "offsetInTicks": 52200000.0,
+                            "durationInTicks": 6300000.0,
+                            "confidence": 0.98847747
+                        }
+                    ]
+                },
+                {
+                    "confidence": 0.7768045,
+                    "lexical": "next create available to manage the state of speech recognition",
+                    "itn": "next create available to manage the state of speech recognition",
+                    "maskedITN": "next create available to manage the state of speech recognition",
+                    "display": "next create available to manage the state of speech recognition",
+                    "words": [
+                        {
+                            "word": "next",
+                            "offset": "PT1.81S",
+                            "duration": "PT0.58S",
+                            "offsetInTicks": 18100000.0,
+                            "durationInTicks": 5800000.0,
+                            "confidence": 0.42403752
+                        },
+                        {
+                            "word": "create",
+                            "offset": "PT2.4S",
+                            "duration": "PT0.32S",
+                            "offsetInTicks": 24000000.0,
+                            "durationInTicks": 3200000.0,
+                            "confidence": 0.5020872
+                        },
+                        {
+                            "word": "available",
+                            "offset": "PT2.73S",
+                            "duration": "PT0.65S",
+                            "offsetInTicks": 27300000.0,
+                            "durationInTicks": 6500000.0,
+                            "confidence": 0.717144
+                        },
+                        {
+                            "word": "to",
+                            "offset": "PT3.45S",
+                            "duration": "PT0.13S",
+                            "offsetInTicks": 34500000.0,
+                            "durationInTicks": 1300000.0,
+                            "confidence": 0.93282986
+                        },
+                        {
+                            "word": "manage",
+                            "offset": "PT3.59S",
+                            "duration": "PT0.41S",
+                            "offsetInTicks": 35900000.0,
+                            "durationInTicks": 4100000.0,
+                            "confidence": 0.87451124
+                        },
+                        {
+                            "word": "the",
+                            "offset": "PT4.01S",
+                            "duration": "PT0.11S",
+                            "offsetInTicks": 40100000.0,
+                            "durationInTicks": 1100000.0,
+                            "confidence": 0.80087316
+                        },
+                        {
+                            "word": "state",
+                            "offset": "PT4.13S",
+                            "duration": "PT0.25S",
+                            "offsetInTicks": 41300000.0,
+                            "durationInTicks": 2500000.0,
+                            "confidence": 0.96286035
+                        },
+                        {
+                            "word": "of",
+                            "offset": "PT4.44S",
+                            "duration": "PT0.28S",
+                            "offsetInTicks": 44400000.0,
+                            "durationInTicks": 2800000.0,
+                            "confidence": 0.9224306
+                        },
+                        {
+                            "word": "speech",
+                            "offset": "PT4.73S",
+                            "duration": "PT0.48S",
+                            "offsetInTicks": 47300000.0,
+                            "durationInTicks": 4800000.0,
+                            "confidence": 0.8713348
+                        },
+                        {
+                            "word": "recognition",
+                            "offset": "PT5.22S",
+                            "duration": "PT0.63S",
+                            "offsetInTicks": 52200000.0,
+                            "durationInTicks": 6300000.0,
+                            "confidence": 0.98847747
+                        }
+                    ]
+                },
+                {
+                    "confidence": 0.8085139,
+                    "lexical": "next create a variable to manage the seat of speech recognition",
+                    "itn": "next create a variable to manage the seat of speech recognition",
+                    "maskedITN": "next create a variable to manage the seat of speech recognition",
+                    "display": "next create a variable to manage the seat of speech recognition",
+                    "words": [
+                        {
+                            "word": "next",
+                            "offset": "PT1.81S",
+                            "duration": "PT0.58S",
+                            "offsetInTicks": 18100000.0,
+                            "durationInTicks": 5800000.0,
+                            "confidence": 0.42403752
+                        },
+                        {
+                            "word": "create",
+                            "offset": "PT2.4S",
+                            "duration": "PT0.32S",
+                            "offsetInTicks": 24000000.0,
+                            "durationInTicks": 3200000.0,
+                            "confidence": 0.59615827
+                        },
+                        {
+                            "word": "a",
+                            "offset": "PT2.73S",
+                            "duration": "PT0.07S",
+                            "offsetInTicks": 27300000.0,
+                            "durationInTicks": 700000.0,
+                            "confidence": 0.77324116
+                        },
+                        {
+                            "word": "variable",
+                            "offset": "PT2.81S",
+                            "duration": "PT0.58S",
+                            "offsetInTicks": 28100000.0,
+                            "durationInTicks": 5800000.0,
+                            "confidence": 0.90865815
+                        },
+                        {
+                            "word": "to",
+                            "offset": "PT3.45S",
+                            "duration": "PT0.13S",
+                            "offsetInTicks": 34500000.0,
+                            "durationInTicks": 1300000.0,
+                            "confidence": 0.8898939
+                        },
+                        {
+                            "word": "manage",
+                            "offset": "PT3.59S",
+                            "duration": "PT0.41S",
+                            "offsetInTicks": 35900000.0,
+                            "durationInTicks": 4100000.0,
+                            "confidence": 0.85804075
+                        },
+                        {
+                            "word": "the",
+                            "offset": "PT4.01S",
+                            "duration": "PT0.11S",
+                            "offsetInTicks": 40100000.0,
+                            "durationInTicks": 1100000.0,
+                            "confidence": 0.80087316
+                        },
+                        {
+                            "word": "seat",
+                            "offset": "PT4.13S",
+                            "duration": "PT0.25S",
+                            "offsetInTicks": 41300000.0,
+                            "durationInTicks": 2500000.0,
+                            "confidence": 0.901276
+                        },
+                        {
+                            "word": "of",
+                            "offset": "PT4.44S",
+                            "duration": "PT0.28S",
+                            "offsetInTicks": 44400000.0,
+                            "durationInTicks": 2800000.0,
+                            "confidence": 0.89388996
+                        },
+                        {
+                            "word": "speech",
+                            "offset": "PT4.73S",
+                            "duration": "PT0.48S",
+                            "offsetInTicks": 47300000.0,
+                            "durationInTicks": 4800000.0,
+                            "confidence": 0.9010114
+                        },
+                        {
+                            "word": "recognition",
+                            "offset": "PT5.22S",
+                            "duration": "PT0.63S",
+                            "offsetInTicks": 52200000.0,
+                            "durationInTicks": 6300000.0,
+                            "confidence": 0.98847747
+                        }
+                    ]
+                },
+                {
+                    "confidence": 0.810576,
+                    "lexical": "next create a favorable to manage the state of speech recognition",
+                    "itn": "next create a favorable to manage the state of speech recognition",
+                    "maskedITN": "next create a favorable to manage the state of speech recognition",
+                    "display": "next create a favorable to manage the state of speech recognition",
+                    "words": [
+                        {
+                            "word": "next",
+                            "offset": "PT1.81S",
+                            "duration": "PT0.58S",
+                            "offsetInTicks": 18100000.0,
+                            "durationInTicks": 5800000.0,
+                            "confidence": 0.42403752
+                        },
+                        {
+                            "word": "create",
+                            "offset": "PT2.4S",
+                            "duration": "PT0.31S",
+                            "offsetInTicks": 24000000.0,
+                            "durationInTicks": 3100000.0,
+                            "confidence": 0.5854136
+                        },
+                        {
+                            "word": "a",
+                            "offset": "PT2.72S",
+                            "duration": "PT0.08S",
+                            "offsetInTicks": 27200000.0,
+                            "durationInTicks": 800000.0,
+                            "confidence": 0.7733042
+                        },
+                        {
+                            "word": "favorable",
+                            "offset": "PT2.81S",
+                            "duration": "PT0.57S",
+                            "offsetInTicks": 28100000.0,
+                            "durationInTicks": 5700000.0,
+                            "confidence": 0.8985747
+                        },
+                        {
+                            "word": "to",
+                            "offset": "PT3.45S",
+                            "duration": "PT0.13S",
+                            "offsetInTicks": 34500000.0,
+                            "durationInTicks": 1300000.0,
+                            "confidence": 0.9415431
+                        },
+                        {
+                            "word": "manage",
+                            "offset": "PT3.59S",
+                            "duration": "PT0.41S",
+                            "offsetInTicks": 35900000.0,
+                            "durationInTicks": 4100000.0,
+                            "confidence": 0.8572265
+                        },
+                        {
+                            "word": "the",
+                            "offset": "PT4.01S",
+                            "duration": "PT0.11S",
+                            "offsetInTicks": 40100000.0,
+                            "durationInTicks": 1100000.0,
+                            "confidence": 0.80087316
+                        },
+                        {
+                            "word": "state",
+                            "offset": "PT4.13S",
+                            "duration": "PT0.25S",
+                            "offsetInTicks": 41300000.0,
+                            "durationInTicks": 2500000.0,
+                            "confidence": 0.96286035
+                        },
+                        {
+                            "word": "of",
+                            "offset": "PT4.44S",
+                            "duration": "PT0.28S",
+                            "offsetInTicks": 44400000.0,
+                            "durationInTicks": 2800000.0,
+                            "confidence": 0.9224306
+                        },
+                        {
+                            "word": "speech",
+                            "offset": "PT4.73S",
+                            "duration": "PT0.48S",
+                            "offsetInTicks": 47300000.0,
+                            "durationInTicks": 4800000.0,
+                            "confidence": 0.8713348
+                        },
+                        {
+                            "word": "recognition",
+                            "offset": "PT5.22S",
+                            "duration": "PT0.63S",
+                            "offsetInTicks": 52200000.0,
+                            "durationInTicks": 6300000.0,
+                            "confidence": 0.98847747
+                        }
+                    ]
+                },
+                {
+                    "confidence": 0.80810213,
+                    "lexical": "next create a favorable to manage the seat of speech recognition",
+                    "itn": "next create a favorable to manage the seat of speech recognition",
+                    "maskedITN": "next create a favorable to manage the seat of speech recognition",
+                    "display": "next create a favorable to manage the seat of speech recognition",
+                    "words": [
+                        {
+                            "word": "next",
+                            "offset": "PT1.81S",
+                            "duration": "PT0.58S",
+                            "offsetInTicks": 18100000.0,
+                            "durationInTicks": 5800000.0,
+                            "confidence": 0.42403752
+                        },
+                        {
+                            "word": "create",
+                            "offset": "PT2.4S",
+                            "duration": "PT0.31S",
+                            "offsetInTicks": 24000000.0,
+                            "durationInTicks": 3100000.0,
+                            "confidence": 0.5854136
+                        },
+                        {
+                            "word": "a",
+                            "offset": "PT2.72S",
+                            "duration": "PT0.08S",
+                            "offsetInTicks": 27200000.0,
+                            "durationInTicks": 800000.0,
+                            "confidence": 0.7733042
+                        },
+                        {
+                            "word": "favorable",
+                            "offset": "PT2.81S",
+                            "duration": "PT0.57S",
+                            "offsetInTicks": 28100000.0,
+                            "durationInTicks": 5700000.0,
+                            "confidence": 0.8985747
+                        },
+                        {
+                            "word": "to",
+                            "offset": "PT3.45S",
+                            "duration": "PT0.13S",
+                            "offsetInTicks": 34500000.0,
+                            "durationInTicks": 1300000.0,
+                            "confidence": 0.9415431
+                        },
+                        {
+                            "word": "manage",
+                            "offset": "PT3.59S",
+                            "duration": "PT0.41S",
+                            "offsetInTicks": 35900000.0,
+                            "durationInTicks": 4100000.0,
+                            "confidence": 0.8572265
+                        },
+                        {
+                            "word": "the",
+                            "offset": "PT4.01S",
+                            "duration": "PT0.11S",
+                            "offsetInTicks": 40100000.0,
+                            "durationInTicks": 1100000.0,
+                            "confidence": 0.80087316
+                        },
+                        {
+                            "word": "seat",
+                            "offset": "PT4.13S",
+                            "duration": "PT0.25S",
+                            "offsetInTicks": 41300000.0,
+                            "durationInTicks": 2500000.0,
+                            "confidence": 0.901276
+                        },
+                        {
+                            "word": "of",
+                            "offset": "PT4.44S",
+                            "duration": "PT0.28S",
+                            "offsetInTicks": 44400000.0,
+                            "durationInTicks": 2800000.0,
+                            "confidence": 0.89388996
+                        },
+                        {
+                            "word": "speech",
+                            "offset": "PT4.73S",
+                            "duration": "PT0.48S",
+                            "offsetInTicks": 47300000.0,
+                            "durationInTicks": 4800000.0,
+                            "confidence": 0.9010114
+                        },
+                        {
+                            "word": "recognition",
+                            "offset": "PT5.22S",
+                            "duration": "PT0.63S",
+                            "offsetInTicks": 52200000.0,
+                            "durationInTicks": 6300000.0,
+                            "confidence": 0.98847747
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT6.51S",
+            "duration": "PT5.17S",
+            "offsetInTicks": 65100000.0,
+            "durationInTicks": 51700000.0,
+            "nBest": [
+                {
+                    "confidence": 0.80805624,
+                    "lexical": "set the variable to folks because at the start of recognition you can safely assume there is not finish",
+                    "itn": "set the variable to folks because at the start of recognition you can safely assume there is not finish",
+                    "maskedITN": "set the variable to folks because at the start of recognition you can safely assume there is not finish",
+                    "display": "Set the variable to folks because at the start of recognition you can safely assume there is not finish.",
+                    "words": [
+                        {
+                            "word": "set",
+                            "offset": "PT6.51S",
+                            "duration": "PT0.25S",
+                            "offsetInTicks": 65100000.0,
+                            "durationInTicks": 2500000.0,
+                            "confidence": 0.6646522
+                        },
+                        {
+                            "word": "the",
+                            "offset": "PT6.77S",
+                            "duration": "PT0.13S",
+                            "offsetInTicks": 67700000.0,
+                            "durationInTicks": 1300000.0,
+                            "confidence": 0.5051467
+                        },
+                        {
+                            "word": "variable",
+                            "offset": "PT6.91S",
+                            "duration": "PT0.49S",
+                            "offsetInTicks": 69100000.0,
+                            "durationInTicks": 4900000.0,
+                            "confidence": 0.6934755
+                        },
+                        {
+                            "word": "to",
+                            "offset": "PT7.41S",
+                            "duration": "PT0.09S",
+                            "offsetInTicks": 74100000.0,
+                            "durationInTicks": 900000.0,
+                            "confidence": 0.92856485
+                        },
+                        {
+                            "word": "folks",
+                            "offset": "PT7.51S",
+                            "duration": "PT0.53S",
+                            "offsetInTicks": 75100000.0,
+                            "durationInTicks": 5300000.0,
+                            "confidence": 0.8395913
+                        },
+                        {
+                            "word": "because",
+                            "offset": "PT8.09S",
+                            "duration": "PT0.33S",
+                            "offsetInTicks": 80900000.0,
+                            "durationInTicks": 3300000.0,
+                            "confidence": 0.888501
+                        },
+                        {
+                            "word": "at",
+                            "offset": "PT8.43S",
+                            "duration": "PT0.09S",
+                            "offsetInTicks": 84300000.0,
+                            "durationInTicks": 900000.0,
+                            "confidence": 0.86950755
+                        },
+                        {
+                            "word": "the",
+                            "offset": "PT8.53S",
+                            "duration": "PT0.11S",
+                            "offsetInTicks": 85300000.0,
+                            "durationInTicks": 1100000.0,
+                            "confidence": 0.83541507
+                        },
+                        {
+                            "word": "start",
+                            "offset": "PT8.65S",
+                            "duration": "PT0.2S",
+                            "offsetInTicks": 86500000.0,
+                            "durationInTicks": 2000000.0,
+                            "confidence": 0.6671158
+                        },
+                        {
+                            "word": "of",
+                            "offset": "PT8.86S",
+                            "duration": "PT0.08S",
+                            "offsetInTicks": 88600000.0,
+                            "durationInTicks": 800000.0,
+                            "confidence": 0.9427931
+                        },
+                        {
+                            "word": "recognition",
+                            "offset": "PT8.95S",
+                            "duration": "PT0.75S",
+                            "offsetInTicks": 89500000.0,
+                            "durationInTicks": 7500000.0,
+                            "confidence": 0.80697584
+                        },
+                        {
+                            "word": "you",
+                            "offset": "PT9.75S",
+                            "duration": "PT0.19S",
+                            "offsetInTicks": 97500000.0,
+                            "durationInTicks": 1900000.0,
+                            "confidence": 0.6898166
+                        },
+                        {
+                            "word": "can",
+                            "offset": "PT9.95S",
+                            "duration": "PT0.13S",
+                            "offsetInTicks": 99500000.0,
+                            "durationInTicks": 1300000.0,
+                            "confidence": 0.95985854
+                        },
+                        {
+                            "word": "safely",
+                            "offset": "PT10.09S",
+                            "duration": "PT0.33S",
+                            "offsetInTicks": 100900000.0,
+                            "durationInTicks": 3300000.0,
+                            "confidence": 0.83862734
+                        },
+                        {
+                            "word": "assume",
+                            "offset": "PT10.43S",
+                            "duration": "PT0.27S",
+                            "offsetInTicks": 104300000.0,
+                            "durationInTicks": 2700000.0,
+                            "confidence": 0.9793581
+                        },
+                        {
+                            "word": "there",
+                            "offset": "PT10.71S",
+                            "duration": "PT0.19S",
+                            "offsetInTicks": 107100000.0,
+                            "durationInTicks": 1900000.0,
+                            "confidence": 0.7343393
+                        },
+                        {
+                            "word": "is",
+                            "offset": "PT10.91S",
+                            "duration": "PT0.09S",
+                            "offsetInTicks": 109100000.0,
+                            "durationInTicks": 900000.0,
+                            "confidence": 0.9469398
+                        },
+                        {
+                            "word": "not",
+                            "offset": "PT11.01S",
+                            "duration": "PT0.21S",
+                            "offsetInTicks": 110100000.0,
+                            "durationInTicks": 2100000.0,
+                            "confidence": 0.7864609
+                        },
+                        {
+                            "word": "finish",
+                            "offset": "PT11.23S",
+                            "duration": "PT0.45S",
+                            "offsetInTicks": 112300000.0,
+                            "durationInTicks": 4500000.0,
+                            "confidence": 0.8929657
+                        }
+                    ]
+                },
+                {
+                    "confidence": 0.81224245,
+                    "lexical": "set the variable to folks because at the start of recognition you can safely assume there is not finished",
+                    "itn": "set the variable to folks because at the start of recognition you can safely assume there is not finished",
+                    "maskedITN": "set the variable to folks because at the start of recognition you can safely assume there is not finished",
+                    "display": "set the variable to folks because at the start of recognition you can safely assume there is not finished",
+                    "words": [
+                        {
+                            "word": "set",
+                            "offset": "PT6.51S",
+                            "duration": "PT0.25S",
+                            "offsetInTicks": 65100000.0,
+                            "durationInTicks": 2500000.0,
+                            "confidence": 0.6646522
+                        },
+                        {
+                            "word": "the",
+                            "offset": "PT6.77S",
+                            "duration": "PT0.13S",
+                            "offsetInTicks": 67700000.0,
+                            "durationInTicks": 1300000.0,
+                            "confidence": 0.5051467
+                        },
+                        {
+                            "word": "variable",
+                            "offset": "PT6.91S",
+                            "duration": "PT0.49S",
+                            "offsetInTicks": 69100000.0,
+                            "durationInTicks": 4900000.0,
+                            "confidence": 0.6934755
+                        },
+                        {
+                            "word": "to",
+                            "offset": "PT7.41S",
+                            "duration": "PT0.09S",
+                            "offsetInTicks": 74100000.0,
+                            "durationInTicks": 900000.0,
+                            "confidence": 0.92856485
+                        },
+                        {
+                            "word": "folks",
+                            "offset": "PT7.51S",
+                            "duration": "PT0.53S",
+                            "offsetInTicks": 75100000.0,
+                            "durationInTicks": 5300000.0,
+                            "confidence": 0.8395913
+                        },
+                        {
+                            "word": "because",
+                            "offset": "PT8.09S",
+                            "duration": "PT0.33S",
+                            "offsetInTicks": 80900000.0,
+                            "durationInTicks": 3300000.0,
+                            "confidence": 0.888501
+                        },
+                        {
+                            "word": "at",
+                            "offset": "PT8.43S",
+                            "duration": "PT0.09S",
+                            "offsetInTicks": 84300000.0,
+                            "durationInTicks": 900000.0,
+                            "confidence": 0.86950755
+                        },
+                        {
+                            "word": "the",
+                            "offset": "PT8.53S",
+                            "duration": "PT0.11S",
+                            "offsetInTicks": 85300000.0,
+                            "durationInTicks": 1100000.0,
+                            "confidence": 0.83541507
+                        },
+                        {
+                            "word": "start",
+                            "offset": "PT8.65S",
+                            "duration": "PT0.2S",
+                            "offsetInTicks": 86500000.0,
+                            "durationInTicks": 2000000.0,
+                            "confidence": 0.6671158
+                        },
+                        {
+                            "word": "of",
+                            "offset": "PT8.86S",
+                            "duration": "PT0.08S",
+                            "offsetInTicks": 88600000.0,
+                            "durationInTicks": 800000.0,
+                            "confidence": 0.9427931
+                        },
+                        {
+                            "word": "recognition",
+                            "offset": "PT8.95S",
+                            "duration": "PT0.75S",
+                            "offsetInTicks": 89500000.0,
+                            "durationInTicks": 7500000.0,
+                            "confidence": 0.80697584
+                        },
+                        {
+                            "word": "you",
+                            "offset": "PT9.75S",
+                            "duration": "PT0.19S",
+                            "offsetInTicks": 97500000.0,
+                            "durationInTicks": 1900000.0,
+                            "confidence": 0.6898166
+                        },
+                        {
+                            "word": "can",
+                            "offset": "PT9.95S",
+                            "duration": "PT0.13S",
+                            "offsetInTicks": 99500000.0,
+                            "durationInTicks": 1300000.0,
+                            "confidence": 0.95985854
+                        },
+                        {
+                            "word": "safely",
+                            "offset": "PT10.09S",
+                            "duration": "PT0.33S",
+                            "offsetInTicks": 100900000.0,
+                            "durationInTicks": 3300000.0,
+                            "confidence": 0.83862734
+                        },
+                        {
+                            "word": "assume",
+                            "offset": "PT10.43S",
+                            "duration": "PT0.27S",
+                            "offsetInTicks": 104300000.0,
+                            "durationInTicks": 2700000.0,
+                            "confidence": 0.9793581
+                        },
+                        {
+                            "word": "there",
+                            "offset": "PT10.71S",
+                            "duration": "PT0.19S",
+                            "offsetInTicks": 107100000.0,
+                            "durationInTicks": 1900000.0,
+                            "confidence": 0.7343393
+                        },
+                        {
+                            "word": "is",
+                            "offset": "PT10.91S",
+                            "duration": "PT0.09S",
+                            "offsetInTicks": 109100000.0,
+                            "durationInTicks": 900000.0,
+                            "confidence": 0.9469398
+                        },
+                        {
+                            "word": "not",
+                            "offset": "PT11.01S",
+                            "duration": "PT0.21S",
+                            "offsetInTicks": 110100000.0,
+                            "durationInTicks": 2100000.0,
+                            "confidence": 0.7864609
+                        },
+                        {
+                            "word": "finished",
+                            "offset": "PT11.23S",
+                            "duration": "PT0.45S",
+                            "offsetInTicks": 112300000.0,
+                            "durationInTicks": 4500000.0,
+                            "confidence": 0.93937826
+                        }
+                    ]
+                },
+                {
+                    "confidence": 0.8048243,
+                    "lexical": "set the variable to folks because at the start of recognition you can safely assume there is no finish",
+                    "itn": "set the variable to folks because at the start of recognition you can safely assume there is no finish",
+                    "maskedITN": "set the variable to folks because at the start of recognition you can safely assume there is no finish",
+                    "display": "set the variable to folks because at the start of recognition you can safely assume there is no finish",
+                    "words": [
+                        {
+                            "word": "set",
+                            "offset": "PT6.51S",
+                            "duration": "PT0.25S",
+                            "offsetInTicks": 65100000.0,
+                            "durationInTicks": 2500000.0,
+                            "confidence": 0.6646522
+                        },
+                        {
+                            "word": "the",
+                            "offset": "PT6.77S",
+                            "duration": "PT0.13S",
+                            "offsetInTicks": 67700000.0,
+                            "durationInTicks": 1300000.0,
+                            "confidence": 0.5051467
+                        },
+                        {
+                            "word": "variable",
+                            "offset": "PT6.91S",
+                            "duration": "PT0.49S",
+                            "offsetInTicks": 69100000.0,
+                            "durationInTicks": 4900000.0,
+                            "confidence": 0.6934755
+                        },
+                        {
+                            "word": "to",
+                            "offset": "PT7.41S",
+                            "duration": "PT0.09S",
+                            "offsetInTicks": 74100000.0,
+                            "durationInTicks": 900000.0,
+                            "confidence": 0.92856485
+                        },
+                        {
+                            "word": "folks",
+                            "offset": "PT7.51S",
+                            "duration": "PT0.53S",
+                            "offsetInTicks": 75100000.0,
+                            "durationInTicks": 5300000.0,
+                            "confidence": 0.8395913
+                        },
+                        {
+                            "word": "because",
+                            "offset": "PT8.09S",
+                            "duration": "PT0.33S",
+                            "offsetInTicks": 80900000.0,
+                            "durationInTicks": 3300000.0,
+                            "confidence": 0.888501
+                        },
+                        {
+                            "word": "at",
+                            "offset": "PT8.43S",
+                            "duration": "PT0.09S",
+                            "offsetInTicks": 84300000.0,
+                            "durationInTicks": 900000.0,
+                            "confidence": 0.86950755
+                        },
+                        {
+                            "word": "the",
+                            "offset": "PT8.53S",
+                            "duration": "PT0.11S",
+                            "offsetInTicks": 85300000.0,
+                            "durationInTicks": 1100000.0,
+                            "confidence": 0.83541507
+                        },
+                        {
+                            "word": "start",
+                            "offset": "PT8.65S",
+                            "duration": "PT0.2S",
+                            "offsetInTicks": 86500000.0,
+                            "durationInTicks": 2000000.0,
+                            "confidence": 0.6671158
+                        },
+                        {
+                            "word": "of",
+                            "offset": "PT8.86S",
+                            "duration": "PT0.08S",
+                            "offsetInTicks": 88600000.0,
+                            "durationInTicks": 800000.0,
+                            "confidence": 0.9427931
+                        },
+                        {
+                            "word": "recognition",
+                            "offset": "PT8.95S",
+                            "duration": "PT0.75S",
+                            "offsetInTicks": 89500000.0,
+                            "durationInTicks": 7500000.0,
+                            "confidence": 0.80697584
+                        },
+                        {
+                            "word": "you",
+                            "offset": "PT9.75S",
+                            "duration": "PT0.19S",
+                            "offsetInTicks": 97500000.0,
+                            "durationInTicks": 1900000.0,
+                            "confidence": 0.6898166
+                        },
+                        {
+                            "word": "can",
+                            "offset": "PT9.95S",
+                            "duration": "PT0.13S",
+                            "offsetInTicks": 99500000.0,
+                            "durationInTicks": 1300000.0,
+                            "confidence": 0.95985854
+                        },
+                        {
+                            "word": "safely",
+                            "offset": "PT10.09S",
+                            "duration": "PT0.33S",
+                            "offsetInTicks": 100900000.0,
+                            "durationInTicks": 3300000.0,
+                            "confidence": 0.83862734
+                        },
+                        {
+                            "word": "assume",
+                            "offset": "PT10.43S",
+                            "duration": "PT0.27S",
+                            "offsetInTicks": 104300000.0,
+                            "durationInTicks": 2700000.0,
+                            "confidence": 0.9793581
+                        },
+                        {
+                            "word": "there",
+                            "offset": "PT10.71S",
+                            "duration": "PT0.19S",
+                            "offsetInTicks": 107100000.0,
+                            "durationInTicks": 1900000.0,
+                            "confidence": 0.7343393
+                        },
+                        {
+                            "word": "is",
+                            "offset": "PT10.91S",
+                            "duration": "PT0.09S",
+                            "offsetInTicks": 109100000.0,
+                            "durationInTicks": 900000.0,
+                            "confidence": 0.9469398
+                        },
+                        {
+                            "word": "no",
+                            "offset": "PT11.01S",
+                            "duration": "PT0.13S",
+                            "offsetInTicks": 110100000.0,
+                            "durationInTicks": 1300000.0,
+                            "confidence": 0.54976004
+                        },
+                        {
+                            "word": "finish",
+                            "offset": "PT11.15S",
+                            "duration": "PT0.53S",
+                            "offsetInTicks": 111500000.0,
+                            "durationInTicks": 5300000.0,
+                            "confidence": 0.90803075
+                        }
+                    ]
+                },
+                {
+                    "confidence": 0.8164232,
+                    "lexical": "set the variable to folks because at the store of recognition you can safely assume there is not finish",
+                    "itn": "set the variable to folks because at the store of recognition you can safely assume there is not finish",
+                    "maskedITN": "set the variable to folks because at the store of recognition you can safely assume there is not finish",
+                    "display": "set the variable to folks because at the store of recognition you can safely assume there is not finish",
+                    "words": [
+                        {
+                            "word": "set",
+                            "offset": "PT6.51S",
+                            "duration": "PT0.25S",
+                            "offsetInTicks": 65100000.0,
+                            "durationInTicks": 2500000.0,
+                            "confidence": 0.6646522
+                        },
+                        {
+                            "word": "the",
+                            "offset": "PT6.77S",
+                            "duration": "PT0.13S",
+                            "offsetInTicks": 67700000.0,
+                            "durationInTicks": 1300000.0,
+                            "confidence": 0.5051467
+                        },
+                        {
+                            "word": "variable",
+                            "offset": "PT6.91S",
+                            "duration": "PT0.49S",
+                            "offsetInTicks": 69100000.0,
+                            "durationInTicks": 4900000.0,
+                            "confidence": 0.6934755
+                        },
+                        {
+                            "word": "to",
+                            "offset": "PT7.41S",
+                            "duration": "PT0.09S",
+                            "offsetInTicks": 74100000.0,
+                            "durationInTicks": 900000.0,
+                            "confidence": 0.92856485
+                        },
+                        {
+                            "word": "folks",
+                            "offset": "PT7.51S",
+                            "duration": "PT0.53S",
+                            "offsetInTicks": 75100000.0,
+                            "durationInTicks": 5300000.0,
+                            "confidence": 0.8395913
+                        },
+                        {
+                            "word": "because",
+                            "offset": "PT8.09S",
+                            "duration": "PT0.33S",
+                            "offsetInTicks": 80900000.0,
+                            "durationInTicks": 3300000.0,
+                            "confidence": 0.888501
+                        },
+                        {
+                            "word": "at",
+                            "offset": "PT8.43S",
+                            "duration": "PT0.09S",
+                            "offsetInTicks": 84300000.0,
+                            "durationInTicks": 900000.0,
+                            "confidence": 0.86950755
+                        },
+                        {
+                            "word": "the",
+                            "offset": "PT8.53S",
+                            "duration": "PT0.11S",
+                            "offsetInTicks": 85300000.0,
+                            "durationInTicks": 1100000.0,
+                            "confidence": 0.83541507
+                        },
+                        {
+                            "word": "store",
+                            "offset": "PT8.65S",
+                            "duration": "PT0.2S",
+                            "offsetInTicks": 86500000.0,
+                            "durationInTicks": 2000000.0,
+                            "confidence": 0.78391886
+                        },
+                        {
+                            "word": "of",
+                            "offset": "PT8.86S",
+                            "duration": "PT0.08S",
+                            "offsetInTicks": 88600000.0,
+                            "durationInTicks": 800000.0,
+                            "confidence": 0.53733844
+                        },
+                        {
+                            "word": "recognition",
+                            "offset": "PT8.95S",
+                            "duration": "PT0.75S",
+                            "offsetInTicks": 89500000.0,
+                            "durationInTicks": 7500000.0,
+                            "confidence": 0.8788622
+                        },
+                        {
+                            "word": "you",
+                            "offset": "PT9.75S",
+                            "duration": "PT0.19S",
+                            "offsetInTicks": 97500000.0,
+                            "durationInTicks": 1900000.0,
+                            "confidence": 0.6898166
+                        },
+                        {
+                            "word": "can",
+                            "offset": "PT9.95S",
+                            "duration": "PT0.13S",
+                            "offsetInTicks": 99500000.0,
+                            "durationInTicks": 1300000.0,
+                            "confidence": 0.95985854
+                        },
+                        {
+                            "word": "safely",
+                            "offset": "PT10.09S",
+                            "duration": "PT0.33S",
+                            "offsetInTicks": 100900000.0,
+                            "durationInTicks": 3300000.0,
+                            "confidence": 0.83862734
+                        },
+                        {
+                            "word": "assume",
+                            "offset": "PT10.43S",
+                            "duration": "PT0.27S",
+                            "offsetInTicks": 104300000.0,
+                            "durationInTicks": 2700000.0,
+                            "confidence": 0.9793581
+                        },
+                        {
+                            "word": "there",
+                            "offset": "PT10.71S",
+                            "duration": "PT0.19S",
+                            "offsetInTicks": 107100000.0,
+                            "durationInTicks": 1900000.0,
+                            "confidence": 0.7343393
+                        },
+                        {
+                            "word": "is",
+                            "offset": "PT10.91S",
+                            "duration": "PT0.09S",
+                            "offsetInTicks": 109100000.0,
+                            "durationInTicks": 900000.0,
+                            "confidence": 0.9469398
+                        },
+                        {
+                            "word": "not",
+                            "offset": "PT11.01S",
+                            "duration": "PT0.21S",
+                            "offsetInTicks": 110100000.0,
+                            "durationInTicks": 2100000.0,
+                            "confidence": 0.7864609
+                        },
+                        {
+                            "word": "finish",
+                            "offset": "PT11.23S",
+                            "duration": "PT0.45S",
+                            "offsetInTicks": 112300000.0,
+                            "durationInTicks": 4500000.0,
+                            "confidence": 0.8929657
+                        }
+                    ]
+                },
+                {
+                    "confidence": 0.8206094,
+                    "lexical": "set the variable to folks because at the store of recognition you can safely assume there is not finished",
+                    "itn": "set the variable to folks because at the store of recognition you can safely assume there is not finished",
+                    "maskedITN": "set the variable to folks because at the store of recognition you can safely assume there is not finished",
+                    "display": "set the variable to folks because at the store of recognition you can safely assume there is not finished",
+                    "words": [
+                        {
+                            "word": "set",
+                            "offset": "PT6.51S",
+                            "duration": "PT0.25S",
+                            "offsetInTicks": 65100000.0,
+                            "durationInTicks": 2500000.0,
+                            "confidence": 0.6646522
+                        },
+                        {
+                            "word": "the",
+                            "offset": "PT6.77S",
+                            "duration": "PT0.13S",
+                            "offsetInTicks": 67700000.0,
+                            "durationInTicks": 1300000.0,
+                            "confidence": 0.5051467
+                        },
+                        {
+                            "word": "variable",
+                            "offset": "PT6.91S",
+                            "duration": "PT0.49S",
+                            "offsetInTicks": 69100000.0,
+                            "durationInTicks": 4900000.0,
+                            "confidence": 0.6934755
+                        },
+                        {
+                            "word": "to",
+                            "offset": "PT7.41S",
+                            "duration": "PT0.09S",
+                            "offsetInTicks": 74100000.0,
+                            "durationInTicks": 900000.0,
+                            "confidence": 0.92856485
+                        },
+                        {
+                            "word": "folks",
+                            "offset": "PT7.51S",
+                            "duration": "PT0.53S",
+                            "offsetInTicks": 75100000.0,
+                            "durationInTicks": 5300000.0,
+                            "confidence": 0.8395913
+                        },
+                        {
+                            "word": "because",
+                            "offset": "PT8.09S",
+                            "duration": "PT0.33S",
+                            "offsetInTicks": 80900000.0,
+                            "durationInTicks": 3300000.0,
+                            "confidence": 0.888501
+                        },
+                        {
+                            "word": "at",
+                            "offset": "PT8.43S",
+                            "duration": "PT0.09S",
+                            "offsetInTicks": 84300000.0,
+                            "durationInTicks": 900000.0,
+                            "confidence": 0.86950755
+                        },
+                        {
+                            "word": "the",
+                            "offset": "PT8.53S",
+                            "duration": "PT0.11S",
+                            "offsetInTicks": 85300000.0,
+                            "durationInTicks": 1100000.0,
+                            "confidence": 0.83541507
+                        },
+                        {
+                            "word": "store",
+                            "offset": "PT8.65S",
+                            "duration": "PT0.2S",
+                            "offsetInTicks": 86500000.0,
+                            "durationInTicks": 2000000.0,
+                            "confidence": 0.78391886
+                        },
+                        {
+                            "word": "of",
+                            "offset": "PT8.86S",
+                            "duration": "PT0.08S",
+                            "offsetInTicks": 88600000.0,
+                            "durationInTicks": 800000.0,
+                            "confidence": 0.53733844
+                        },
+                        {
+                            "word": "recognition",
+                            "offset": "PT8.95S",
+                            "duration": "PT0.75S",
+                            "offsetInTicks": 89500000.0,
+                            "durationInTicks": 7500000.0,
+                            "confidence": 0.8788622
+                        },
+                        {
+                            "word": "you",
+                            "offset": "PT9.75S",
+                            "duration": "PT0.19S",
+                            "offsetInTicks": 97500000.0,
+                            "durationInTicks": 1900000.0,
+                            "confidence": 0.6898166
+                        },
+                        {
+                            "word": "can",
+                            "offset": "PT9.95S",
+                            "duration": "PT0.13S",
+                            "offsetInTicks": 99500000.0,
+                            "durationInTicks": 1300000.0,
+                            "confidence": 0.95985854
+                        },
+                        {
+                            "word": "safely",
+                            "offset": "PT10.09S",
+                            "duration": "PT0.33S",
+                            "offsetInTicks": 100900000.0,
+                            "durationInTicks": 3300000.0,
+                            "confidence": 0.83862734
+                        },
+                        {
+                            "word": "assume",
+                            "offset": "PT10.43S",
+                            "duration": "PT0.27S",
+                            "offsetInTicks": 104300000.0,
+                            "durationInTicks": 2700000.0,
+                            "confidence": 0.9793581
+                        },
+                        {
+                            "word": "there",
+                            "offset": "PT10.71S",
+                            "duration": "PT0.19S",
+                            "offsetInTicks": 107100000.0,
+                            "durationInTicks": 1900000.0,
+                            "confidence": 0.7343393
+                        },
+                        {
+                            "word": "is",
+                            "offset": "PT10.91S",
+                            "duration": "PT0.09S",
+                            "offsetInTicks": 109100000.0,
+                            "durationInTicks": 900000.0,
+                            "confidence": 0.9469398
+                        },
+                        {
+                            "word": "not",
+                            "offset": "PT11.01S",
+                            "duration": "PT0.21S",
+                            "offsetInTicks": 110100000.0,
+                            "durationInTicks": 2100000.0,
+                            "confidence": 0.7864609
+                        },
+                        {
+                            "word": "finished",
+                            "offset": "PT11.23S",
+                            "duration": "PT0.45S",
+                            "offsetInTicks": 112300000.0,
+                            "durationInTicks": 4500000.0,
+                            "confidence": 0.93937826
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "self": "https://eastasia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/91ce4709-9b79-466f-8279-09ea6908cc72",
+    "model": {
+        "self": "https://eastasia.api.cognitive.microsoft.com/speechtotext/v3.0/models/base/ec7b3613-1b7c-4c1c-86f3-7e961f67dc69"
+    },
+    "links": {
+        "files": "https://eastasia.api.cognitive.microsoft.com/speechtotext/v3.0/transcriptions/91ce4709-9b79-466f-8279-09ea6908cc72/files"
+    },
+    "properties": {
+        "diarizationEnabled": false,
+        "wordLevelTimestampsEnabled": true,
+        "channels": [
+            0,
+            1
+        ],
+        "punctuationMode": "DictatedAndAutomatic",
+        "profanityFilterMode": "Masked",
+        "duration": "PT23S"
+    },
+    "lastActionDateTime": "2022-11-06T05:54:06Z",
+    "status": "Succeeded",
+    "createdDateTime": "2022-11-06T05:53:58Z",
+    "locale": "en-US",
+    "displayName": "Test Transcription"
+}

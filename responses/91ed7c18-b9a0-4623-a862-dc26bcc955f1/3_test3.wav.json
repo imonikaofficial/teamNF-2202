@@ -1,0 +1,1010 @@
+{
+    "source": "https://02projectstorage.blob.core.windows.net/test1/test3.wav",
+    "timestamp": "2022-11-06T09:15:42Z",
+    "durationInTicks": 64800000,
+    "duration": "PT6.48S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "and say something say something you fucking live",
+            "itn": "and say something say something you fucking live",
+            "maskedITN": "and say something say something you ******* live",
+            "display": "And say something. Say something. You ******* live."
+        },
+        {
+            "channel": 1,
+            "lexical": "and say something say something you fucking live",
+            "itn": "and say something say something you fucking live",
+            "maskedITN": "and say something say something you ******* live",
+            "display": "And say something. Say something. You ******* live."
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT0.56S",
+            "duration": "PT0.71S",
+            "offsetInTicks": 5600000.0,
+            "durationInTicks": 7100000.0,
+            "nBest": [
+                {
+                    "confidence": 0.6291705,
+                    "lexical": "and say something",
+                    "itn": "and say something",
+                    "maskedITN": "and say something",
+                    "display": "And say something.",
+                    "words": [
+                        {
+                            "word": "and",
+                            "offset": "PT0.56S",
+                            "duration": "PT0.25S",
+                            "offsetInTicks": 5600000.0,
+                            "durationInTicks": 2500000.0,
+                            "confidence": 0.5053496
+                        },
+                        {
+                            "word": "say",
+                            "offset": "PT0.82S",
+                            "duration": "PT0.15S",
+                            "offsetInTicks": 8200000.0,
+                            "durationInTicks": 1500000.0,
+                            "confidence": 0.55542934
+                        },
+                        {
+                            "word": "something",
+                            "offset": "PT0.98S",
+                            "duration": "PT0.29S",
+                            "offsetInTicks": 9800000.0,
+                            "durationInTicks": 2900000.0,
+                            "confidence": 0.7758105
+                        }
+                    ]
+                },
+                {
+                    "confidence": 0.6999974,
+                    "lexical": "can you say something",
+                    "itn": "can you say something",
+                    "maskedITN": "can you say something",
+                    "display": "can you say something",
+                    "words": [
+                        {
+                            "word": "can",
+                            "offset": "PT0.54S",
+                            "duration": "PT0.19S",
+                            "offsetInTicks": 5400000.0,
+                            "durationInTicks": 1900000.0,
+                            "confidence": 0.41028416
+                        },
+                        {
+                            "word": "you",
+                            "offset": "PT0.74S",
+                            "duration": "PT0.08S",
+                            "offsetInTicks": 7400000.0,
+                            "durationInTicks": 800000.0,
+                            "confidence": 0.790236
+                        },
+                        {
+                            "word": "say",
+                            "offset": "PT0.83S",
+                            "duration": "PT0.14S",
+                            "offsetInTicks": 8300000.0,
+                            "durationInTicks": 1400000.0,
+                            "confidence": 0.75466835
+                        },
+                        {
+                            "word": "something",
+                            "offset": "PT0.98S",
+                            "duration": "PT0.29S",
+                            "offsetInTicks": 9800000.0,
+                            "durationInTicks": 2900000.0,
+                            "confidence": 0.8387326
+                        }
+                    ]
+                },
+                {
+                    "confidence": 0.6532474,
+                    "lexical": "say something",
+                    "itn": "say something",
+                    "maskedITN": "say something",
+                    "display": "say something",
+                    "words": [
+                        {
+                            "word": "say",
+                            "offset": "PT0.76S",
+                            "duration": "PT0.21S",
+                            "offsetInTicks": 7600000.0,
+                            "durationInTicks": 2100000.0,
+                            "confidence": 0.47405562
+                        },
+                        {
+                            "word": "something",
+                            "offset": "PT0.98S",
+                            "duration": "PT0.29S",
+                            "offsetInTicks": 9800000.0,
+                            "durationInTicks": 2900000.0,
+                            "confidence": 0.78465474
+                        }
+                    ]
+                },
+                {
+                    "confidence": 0.67690074,
+                    "lexical": "and you say something",
+                    "itn": "and you say something",
+                    "maskedITN": "and you say something",
+                    "display": "and you say something",
+                    "words": [
+                        {
+                            "word": "and",
+                            "offset": "PT0.56S",
+                            "duration": "PT0.18S",
+                            "offsetInTicks": 5600000.0,
+                            "durationInTicks": 1800000.0,
+                            "confidence": 0.48522294
+                        },
+                        {
+                            "word": "you",
+                            "offset": "PT0.75S",
+                            "duration": "PT0.08S",
+                            "offsetInTicks": 7500000.0,
+                            "durationInTicks": 800000.0,
+                            "confidence": 0.543693
+                        },
+                        {
+                            "word": "say",
+                            "offset": "PT0.84S",
+                            "duration": "PT0.13S",
+                            "offsetInTicks": 8400000.0,
+                            "durationInTicks": 1300000.0,
+                            "confidence": 0.85162973
+                        },
+                        {
+                            "word": "something",
+                            "offset": "PT0.98S",
+                            "duration": "PT0.29S",
+                            "offsetInTicks": 9800000.0,
+                            "durationInTicks": 2900000.0,
+                            "confidence": 0.7567188
+                        }
+                    ]
+                },
+                {
+                    "confidence": 0.5259577,
+                    "lexical": "you say something",
+                    "itn": "you say something",
+                    "maskedITN": "you say something",
+                    "display": "you say something",
+                    "words": [
+                        {
+                            "word": "you",
+                            "offset": "PT0.54S",
+                            "duration": "PT0.27S",
+                            "offsetInTicks": 5400000.0,
+                            "durationInTicks": 2700000.0,
+                            "confidence": 0.14903697
+                        },
+                        {
+                            "word": "say",
+                            "offset": "PT0.82S",
+                            "duration": "PT0.15S",
+                            "offsetInTicks": 8200000.0,
+                            "durationInTicks": 1500000.0,
+                            "confidence": 0.72015226
+                        },
+                        {
+                            "word": "something",
+                            "offset": "PT0.98S",
+                            "duration": "PT0.29S",
+                            "offsetInTicks": 9800000.0,
+                            "durationInTicks": 2900000.0,
+                            "confidence": 0.77418
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT2.47S",
+            "duration": "PT0.83S",
+            "offsetInTicks": 24700000.0,
+            "durationInTicks": 8300000.0,
+            "nBest": [
+                {
+                    "confidence": 0.90134406,
+                    "lexical": "say something",
+                    "itn": "say something",
+                    "maskedITN": "say something",
+                    "display": "Say something.",
+                    "words": [
+                        {
+                            "word": "say",
+                            "offset": "PT2.47S",
+                            "duration": "PT0.23S",
+                            "offsetInTicks": 24700000.0,
+                            "durationInTicks": 2300000.0,
+                            "confidence": 0.76386
+                        },
+                        {
+                            "word": "something",
+                            "offset": "PT2.71S",
+                            "duration": "PT0.59S",
+                            "offsetInTicks": 27100000.0,
+                            "durationInTicks": 5900000.0,
+                            "confidence": 0.9563377
+                        }
+                    ]
+                },
+                {
+                    "confidence": 0.78025997,
+                    "lexical": "see something",
+                    "itn": "see something",
+                    "maskedITN": "see something",
+                    "display": "see something",
+                    "words": [
+                        {
+                            "word": "see",
+                            "offset": "PT2.47S",
+                            "duration": "PT0.23S",
+                            "offsetInTicks": 24700000.0,
+                            "durationInTicks": 2300000.0,
+                            "confidence": 0.39663562
+                        },
+                        {
+                            "word": "something",
+                            "offset": "PT2.71S",
+                            "duration": "PT0.59S",
+                            "offsetInTicks": 27100000.0,
+                            "durationInTicks": 5900000.0,
+                            "confidence": 0.93370974
+                        }
+                    ]
+                },
+                {
+                    "confidence": 0.7056557,
+                    "lexical": "says something",
+                    "itn": "says something",
+                    "maskedITN": "says something",
+                    "display": "says something",
+                    "words": [
+                        {
+                            "word": "says",
+                            "offset": "PT2.47S",
+                            "duration": "PT0.24S",
+                            "offsetInTicks": 24700000.0,
+                            "durationInTicks": 2400000.0,
+                            "confidence": 0.16022661
+                        },
+                        {
+                            "word": "something",
+                            "offset": "PT2.72S",
+                            "duration": "PT0.58S",
+                            "offsetInTicks": 27200000.0,
+                            "durationInTicks": 5800000.0,
+                            "confidence": 0.9367697
+                        }
+                    ]
+                },
+                {
+                    "confidence": 0.71694386,
+                    "lexical": "said something",
+                    "itn": "said something",
+                    "maskedITN": "said something",
+                    "display": "said something",
+                    "words": [
+                        {
+                            "word": "said",
+                            "offset": "PT2.47S",
+                            "duration": "PT0.23S",
+                            "offsetInTicks": 24700000.0,
+                            "durationInTicks": 2300000.0,
+                            "confidence": 0.15398556
+                        },
+                        {
+                            "word": "something",
+                            "offset": "PT2.71S",
+                            "duration": "PT0.59S",
+                            "offsetInTicks": 27100000.0,
+                            "durationInTicks": 5900000.0,
+                            "confidence": 0.94212717
+                        }
+                    ]
+                },
+                {
+                    "confidence": 0.7987945,
+                    "lexical": "play something",
+                    "itn": "play something",
+                    "maskedITN": "play something",
+                    "display": "play something",
+                    "words": [
+                        {
+                            "word": "play",
+                            "offset": "PT2.56S",
+                            "duration": "PT0.14S",
+                            "offsetInTicks": 25600000.0,
+                            "durationInTicks": 1400000.0,
+                            "confidence": 0.32536212
+                        },
+                        {
+                            "word": "something",
+                            "offset": "PT2.71S",
+                            "duration": "PT0.59S",
+                            "offsetInTicks": 27100000.0,
+                            "durationInTicks": 5900000.0,
+                            "confidence": 0.9171526
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT4.75S",
+            "duration": "PT0.92S",
+            "offsetInTicks": 47500000.0,
+            "durationInTicks": 9200000.0,
+            "nBest": [
+                {
+                    "confidence": 0.69643563,
+                    "lexical": "you fucking live",
+                    "itn": "you fucking live",
+                    "maskedITN": "you ******* live",
+                    "display": "You ******* live.",
+                    "words": [
+                        {
+                            "word": "you",
+                            "offset": "PT4.75S",
+                            "duration": "PT0.25S",
+                            "offsetInTicks": 47500000.0,
+                            "durationInTicks": 2500000.0,
+                            "confidence": 0.53524315
+                        },
+                        {
+                            "word": "fucking",
+                            "offset": "PT5.01S",
+                            "duration": "PT0.39S",
+                            "offsetInTicks": 50100000.0,
+                            "durationInTicks": 3900000.0,
+                            "confidence": 0.63551724
+                        },
+                        {
+                            "word": "live",
+                            "offset": "PT5.41S",
+                            "duration": "PT0.26S",
+                            "offsetInTicks": 54100000.0,
+                            "durationInTicks": 2600000.0,
+                            "confidence": 0.94190735
+                        }
+                    ]
+                },
+                {
+                    "confidence": 0.68797475,
+                    "lexical": "you fucking leave",
+                    "itn": "you fucking leave",
+                    "maskedITN": "you fucking leave",
+                    "display": "you fucking leave",
+                    "words": [
+                        {
+                            "word": "you",
+                            "offset": "PT4.75S",
+                            "duration": "PT0.25S",
+                            "offsetInTicks": 47500000.0,
+                            "durationInTicks": 2500000.0,
+                            "confidence": 0.53524315
+                        },
+                        {
+                            "word": "fucking",
+                            "offset": "PT5.01S",
+                            "duration": "PT0.39S",
+                            "offsetInTicks": 50100000.0,
+                            "durationInTicks": 3900000.0,
+                            "confidence": 0.63551724
+                        },
+                        {
+                            "word": "leave",
+                            "offset": "PT5.41S",
+                            "duration": "PT0.26S",
+                            "offsetInTicks": 54100000.0,
+                            "durationInTicks": 2600000.0,
+                            "confidence": 0.91276455
+                        }
+                    ]
+                },
+                {
+                    "confidence": 0.65378577,
+                    "lexical": "you fucking life",
+                    "itn": "you fucking life",
+                    "maskedITN": "you fucking life",
+                    "display": "you fucking life",
+                    "words": [
+                        {
+                            "word": "you",
+                            "offset": "PT4.75S",
+                            "duration": "PT0.25S",
+                            "offsetInTicks": 47500000.0,
+                            "durationInTicks": 2500000.0,
+                            "confidence": 0.53524315
+                        },
+                        {
+                            "word": "fucking",
+                            "offset": "PT5.01S",
+                            "duration": "PT0.39S",
+                            "offsetInTicks": 50100000.0,
+                            "durationInTicks": 3900000.0,
+                            "confidence": 0.63551724
+                        },
+                        {
+                            "word": "life",
+                            "offset": "PT5.41S",
+                            "duration": "PT0.26S",
+                            "offsetInTicks": 54100000.0,
+                            "durationInTicks": 2600000.0,
+                            "confidence": 0.79500234
+                        }
+                    ]
+                },
+                {
+                    "confidence": 0.6596798,
+                    "lexical": "you fucking lift",
+                    "itn": "you fucking lift",
+                    "maskedITN": "you fucking lift",
+                    "display": "you fucking lift",
+                    "words": [
+                        {
+                            "word": "you",
+                            "offset": "PT4.75S",
+                            "duration": "PT0.25S",
+                            "offsetInTicks": 47500000.0,
+                            "durationInTicks": 2500000.0,
+                            "confidence": 0.53524315
+                        },
+                        {
+                            "word": "fucking",
+                            "offset": "PT5.01S",
+                            "duration": "PT0.39S",
+                            "offsetInTicks": 50100000.0,
+                            "durationInTicks": 3900000.0,
+                            "confidence": 0.63551724
+                        },
+                        {
+                            "word": "lift",
+                            "offset": "PT5.41S",
+                            "duration": "PT0.26S",
+                            "offsetInTicks": 54100000.0,
+                            "durationInTicks": 2600000.0,
+                            "confidence": 0.8153039
+                        }
+                    ]
+                },
+                {
+                    "confidence": 0.56468856,
+                    "lexical": "you're fucking live",
+                    "itn": "you're fucking live",
+                    "maskedITN": "you're fucking live",
+                    "display": "you're fucking live",
+                    "words": [
+                        {
+                            "word": "you're",
+                            "offset": "PT4.75S",
+                            "duration": "PT0.28S",
+                            "offsetInTicks": 47500000.0,
+                            "durationInTicks": 2800000.0,
+                            "confidence": 0.31077003
+                        },
+                        {
+                            "word": "fucking",
+                            "offset": "PT5.04S",
+                            "duration": "PT0.36S",
+                            "offsetInTicks": 50400000.0,
+                            "durationInTicks": 3600000.0,
+                            "confidence": 0.51854414
+                        },
+                        {
+                            "word": "live",
+                            "offset": "PT5.41S",
+                            "duration": "PT0.26S",
+                            "offsetInTicks": 54100000.0,
+                            "durationInTicks": 2600000.0,
+                            "confidence": 0.90065074
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 1,
+            "offset": "PT0.59S",
+            "duration": "PT0.68S",
+            "offsetInTicks": 5900000.0,
+            "durationInTicks": 6800000.0,
+            "nBest": [
+                {
+                    "confidence": 0.6710231,
+                    "lexical": "and say something",
+                    "itn": "and say something",
+                    "maskedITN": "and say something",
+                    "display": "And say something.",
+                    "words": [
+                        {
+                            "word": "and",
+                            "offset": "PT0.59S",
+                            "duration": "PT0.22S",
+                            "offsetInTicks": 5900000.0,
+                            "durationInTicks": 2200000.0,
+                            "confidence": 0.6121309
+                        },
+                        {
+                            "word": "say",
+                            "offset": "PT0.82S",
+                            "duration": "PT0.15S",
+                            "offsetInTicks": 8200000.0,
+                            "durationInTicks": 1500000.0,
+                            "confidence": 0.55920416
+                        },
+                        {
+                            "word": "something",
+                            "offset": "PT0.98S",
+                            "duration": "PT0.29S",
+                            "offsetInTicks": 9800000.0,
+                            "durationInTicks": 2900000.0,
+                            "confidence": 0.7758105
+                        }
+                    ]
+                },
+                {
+                    "confidence": 0.7030276,
+                    "lexical": "can you say something",
+                    "itn": "can you say something",
+                    "maskedITN": "can you say something",
+                    "display": "can you say something",
+                    "words": [
+                        {
+                            "word": "can",
+                            "offset": "PT0.56S",
+                            "duration": "PT0.17S",
+                            "offsetInTicks": 5600000.0,
+                            "durationInTicks": 1700000.0,
+                            "confidence": 0.41202727
+                        },
+                        {
+                            "word": "you",
+                            "offset": "PT0.74S",
+                            "duration": "PT0.08S",
+                            "offsetInTicks": 7400000.0,
+                            "durationInTicks": 800000.0,
+                            "confidence": 0.7605164
+                        },
+                        {
+                            "word": "say",
+                            "offset": "PT0.83S",
+                            "duration": "PT0.14S",
+                            "offsetInTicks": 8300000.0,
+                            "durationInTicks": 1400000.0,
+                            "confidence": 0.74632454
+                        },
+                        {
+                            "word": "something",
+                            "offset": "PT0.98S",
+                            "duration": "PT0.29S",
+                            "offsetInTicks": 9800000.0,
+                            "durationInTicks": 2900000.0,
+                            "confidence": 0.8387326
+                        }
+                    ]
+                },
+                {
+                    "confidence": 0.6211594,
+                    "lexical": "say something",
+                    "itn": "say something",
+                    "maskedITN": "say something",
+                    "display": "say something",
+                    "words": [
+                        {
+                            "word": "say",
+                            "offset": "PT0.74S",
+                            "duration": "PT0.23S",
+                            "offsetInTicks": 7400000.0,
+                            "durationInTicks": 2300000.0,
+                            "confidence": 0.41679016
+                        },
+                        {
+                            "word": "something",
+                            "offset": "PT0.98S",
+                            "duration": "PT0.29S",
+                            "offsetInTicks": 9800000.0,
+                            "durationInTicks": 2900000.0,
+                            "confidence": 0.78465474
+                        }
+                    ]
+                },
+                {
+                    "confidence": 0.66638,
+                    "lexical": "and you say something",
+                    "itn": "and you say something",
+                    "maskedITN": "and you say something",
+                    "display": "and you say something",
+                    "words": [
+                        {
+                            "word": "and",
+                            "offset": "PT0.56S",
+                            "duration": "PT0.18S",
+                            "offsetInTicks": 5600000.0,
+                            "durationInTicks": 1800000.0,
+                            "confidence": 0.46516728
+                        },
+                        {
+                            "word": "you",
+                            "offset": "PT0.75S",
+                            "duration": "PT0.08S",
+                            "offsetInTicks": 7500000.0,
+                            "durationInTicks": 800000.0,
+                            "confidence": 0.50936025
+                        },
+                        {
+                            "word": "say",
+                            "offset": "PT0.84S",
+                            "duration": "PT0.13S",
+                            "offsetInTicks": 8400000.0,
+                            "durationInTicks": 1300000.0,
+                            "confidence": 0.84681225
+                        },
+                        {
+                            "word": "something",
+                            "offset": "PT0.98S",
+                            "duration": "PT0.29S",
+                            "offsetInTicks": 9800000.0,
+                            "durationInTicks": 2900000.0,
+                            "confidence": 0.7567188
+                        }
+                    ]
+                },
+                {
+                    "confidence": 0.5399342,
+                    "lexical": "you say something",
+                    "itn": "you say something",
+                    "maskedITN": "you say something",
+                    "display": "you say something",
+                    "words": [
+                        {
+                            "word": "you",
+                            "offset": "PT0.56S",
+                            "duration": "PT0.25S",
+                            "offsetInTicks": 5600000.0,
+                            "durationInTicks": 2500000.0,
+                            "confidence": 0.1651592
+                        },
+                        {
+                            "word": "say",
+                            "offset": "PT0.82S",
+                            "duration": "PT0.15S",
+                            "offsetInTicks": 8200000.0,
+                            "durationInTicks": 1500000.0,
+                            "confidence": 0.70973283
+                        },
+                        {
+                            "word": "something",
+                            "offset": "PT0.98S",
+                            "duration": "PT0.29S",
+                            "offsetInTicks": 9800000.0,
+                            "durationInTicks": 2900000.0,
+                            "confidence": 0.77418
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 1,
+            "offset": "PT2.47S",
+            "duration": "PT0.83S",
+            "offsetInTicks": 24700000.0,
+            "durationInTicks": 8300000.0,
+            "nBest": [
+                {
+                    "confidence": 0.9018403,
+                    "lexical": "say something",
+                    "itn": "say something",
+                    "maskedITN": "say something",
+                    "display": "Say something.",
+                    "words": [
+                        {
+                            "word": "say",
+                            "offset": "PT2.47S",
+                            "duration": "PT0.23S",
+                            "offsetInTicks": 24700000.0,
+                            "durationInTicks": 2300000.0,
+                            "confidence": 0.76386
+                        },
+                        {
+                            "word": "something",
+                            "offset": "PT2.71S",
+                            "duration": "PT0.59S",
+                            "offsetInTicks": 27100000.0,
+                            "durationInTicks": 5900000.0,
+                            "confidence": 0.95703244
+                        }
+                    ]
+                },
+                {
+                    "confidence": 0.78076965,
+                    "lexical": "see something",
+                    "itn": "see something",
+                    "maskedITN": "see something",
+                    "display": "see something",
+                    "words": [
+                        {
+                            "word": "see",
+                            "offset": "PT2.47S",
+                            "duration": "PT0.23S",
+                            "offsetInTicks": 24700000.0,
+                            "durationInTicks": 2300000.0,
+                            "confidence": 0.39663562
+                        },
+                        {
+                            "word": "something",
+                            "offset": "PT2.71S",
+                            "duration": "PT0.59S",
+                            "offsetInTicks": 27100000.0,
+                            "durationInTicks": 5900000.0,
+                            "confidence": 0.9344232
+                        }
+                    ]
+                },
+                {
+                    "confidence": 0.70626426,
+                    "lexical": "says something",
+                    "itn": "says something",
+                    "maskedITN": "says something",
+                    "display": "says something",
+                    "words": [
+                        {
+                            "word": "says",
+                            "offset": "PT2.47S",
+                            "duration": "PT0.24S",
+                            "offsetInTicks": 24700000.0,
+                            "durationInTicks": 2400000.0,
+                            "confidence": 0.16022661
+                        },
+                        {
+                            "word": "something",
+                            "offset": "PT2.72S",
+                            "duration": "PT0.58S",
+                            "offsetInTicks": 27200000.0,
+                            "durationInTicks": 5800000.0,
+                            "confidence": 0.93763614
+                        }
+                    ]
+                },
+                {
+                    "confidence": 0.7174976,
+                    "lexical": "said something",
+                    "itn": "said something",
+                    "maskedITN": "said something",
+                    "display": "said something",
+                    "words": [
+                        {
+                            "word": "said",
+                            "offset": "PT2.47S",
+                            "duration": "PT0.23S",
+                            "offsetInTicks": 24700000.0,
+                            "durationInTicks": 2300000.0,
+                            "confidence": 0.15398556
+                        },
+                        {
+                            "word": "something",
+                            "offset": "PT2.71S",
+                            "duration": "PT0.59S",
+                            "offsetInTicks": 27100000.0,
+                            "durationInTicks": 5900000.0,
+                            "confidence": 0.9429024
+                        }
+                    ]
+                },
+                {
+                    "confidence": 0.7997486,
+                    "lexical": "play something",
+                    "itn": "play something",
+                    "maskedITN": "play something",
+                    "display": "play something",
+                    "words": [
+                        {
+                            "word": "play",
+                            "offset": "PT2.56S",
+                            "duration": "PT0.14S",
+                            "offsetInTicks": 25600000.0,
+                            "durationInTicks": 1400000.0,
+                            "confidence": 0.32536212
+                        },
+                        {
+                            "word": "something",
+                            "offset": "PT2.71S",
+                            "duration": "PT0.59S",
+                            "offsetInTicks": 27100000.0,
+                            "durationInTicks": 5900000.0,
+                            "confidence": 0.9183452
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 1,
+            "offset": "PT4.77S",
+            "duration": "PT0.9S",
+            "offsetInTicks": 47700000.0,
+            "durationInTicks": 9000000.0,
+            "nBest": [
+                {
+                    "confidence": 0.69441795,
+                    "lexical": "you fucking live",
+                    "itn": "you fucking live",
+                    "maskedITN": "you ******* live",
+                    "display": "You ******* live.",
+                    "words": [
+                        {
+                            "word": "you",
+                            "offset": "PT4.77S",
+                            "duration": "PT0.23S",
+                            "offsetInTicks": 47700000.0,
+                            "durationInTicks": 2300000.0,
+                            "confidence": 0.5893991
+                        },
+                        {
+                            "word": "fucking",
+                            "offset": "PT5.01S",
+                            "duration": "PT0.39S",
+                            "offsetInTicks": 50100000.0,
+                            "durationInTicks": 3900000.0,
+                            "confidence": 0.59206724
+                        },
+                        {
+                            "word": "live",
+                            "offset": "PT5.41S",
+                            "duration": "PT0.26S",
+                            "offsetInTicks": 54100000.0,
+                            "durationInTicks": 2600000.0,
+                            "confidence": 0.93939877
+                        }
+                    ]
+                },
+                {
+                    "confidence": 0.68684524,
+                    "lexical": "you fucking leave",
+                    "itn": "you fucking leave",
+                    "maskedITN": "you fucking leave",
+                    "display": "you fucking leave",
+                    "words": [
+                        {
+                            "word": "you",
+                            "offset": "PT4.77S",
+                            "duration": "PT0.23S",
+                            "offsetInTicks": 47700000.0,
+                            "durationInTicks": 2300000.0,
+                            "confidence": 0.5893991
+                        },
+                        {
+                            "word": "fucking",
+                            "offset": "PT5.01S",
+                            "duration": "PT0.39S",
+                            "offsetInTicks": 50100000.0,
+                            "durationInTicks": 3900000.0,
+                            "confidence": 0.59206724
+                        },
+                        {
+                            "word": "leave",
+                            "offset": "PT5.41S",
+                            "duration": "PT0.26S",
+                            "offsetInTicks": 54100000.0,
+                            "durationInTicks": 2600000.0,
+                            "confidence": 0.91387576
+                        }
+                    ]
+                },
+                {
+                    "confidence": 0.6518882,
+                    "lexical": "you fucking life",
+                    "itn": "you fucking life",
+                    "maskedITN": "you fucking life",
+                    "display": "you fucking life",
+                    "words": [
+                        {
+                            "word": "you",
+                            "offset": "PT4.77S",
+                            "duration": "PT0.23S",
+                            "offsetInTicks": 47700000.0,
+                            "durationInTicks": 2300000.0,
+                            "confidence": 0.5893991
+                        },
+                        {
+                            "word": "fucking",
+                            "offset": "PT5.01S",
+                            "duration": "PT0.39S",
+                            "offsetInTicks": 50100000.0,
+                            "durationInTicks": 3900000.0,
+                            "confidence": 0.59206724
+                        },
+                        {
+                            "word": "life",
+                            "offset": "PT5.41S",
+                            "duration": "PT0.26S",
+                            "offsetInTicks": 54100000.0,
+                            "durationInTicks": 2600000.0,
+                            "confidence": 0.7960576
+                        }
+                    ]
+                },
+                {
+                    "confidence": 0.6585475,
+                    "lexical": "you fucking lift",
+                    "itn": "you fucking lift",
+                    "maskedITN": "you fucking lift",
+                    "display": "you fucking lift",
+                    "words": [
+                        {
+                            "word": "you",
+                            "offset": "PT4.77S",
+                            "duration": "PT0.23S",
+                            "offsetInTicks": 47700000.0,
+                            "durationInTicks": 2300000.0,
+                            "confidence": 0.5893991
+                        },
+                        {
+                            "word": "fucking",
+                            "offset": "PT5.01S",
+                            "duration": "PT0.39S",
+                            "offsetInTicks": 50100000.0,
+                            "durationInTicks": 3900000.0,
+                            "confidence": 0.59206724
+                        },
+                        {
+                            "word": "lift",
+                            "offset": "PT5.41S",
+                            "duration": "PT0.26S",
+                            "offsetInTicks": 54100000.0,
+                            "durationInTicks": 2600000.0,
+                            "confidence": 0.8185022
+                        }
+                    ]
+                },
+                {
+                    "confidence": 0.5577495,
+                    "lexical": "you're fucking live",
+                    "itn": "you're fucking live",
+                    "maskedITN": "you're fucking live",
+                    "display": "you're fucking live",
+                    "words": [
+                        {
+                            "word": "you're",
+                            "offset": "PT4.77S",
+                            "duration": "PT0.26S",
+                            "offsetInTicks": 47700000.0,
+                            "durationInTicks": 2600000.0,
+                            "confidence": 0.32630423
+                        },
+                        {
+                            "word": "fucking",
+                            "offset": "PT5.04S",
+                            "duration": "PT0.36S",
+                            "offsetInTicks": 50400000.0,
+                            "durationInTicks": 3600000.0,
+                            "confidence": 0.4789972
+                        },
+                        {
+                            "word": "live",
+                            "offset": "PT5.41S",
+                            "duration": "PT0.26S",
+                            "offsetInTicks": 54100000.0,
+                            "durationInTicks": 2600000.0,
+                            "confidence": 0.8971146
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

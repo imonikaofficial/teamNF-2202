@@ -1,0 +1,934 @@
+{
+    "source": "https://02projectstorage.blob.core.windows.net/test1/test2.wav",
+    "timestamp": "2022-11-06T09:15:43Z",
+    "durationInTicks": 47800000,
+    "duration": "PT4.78S",
+    "combinedRecognizedPhrases": [
+        {
+            "channel": 0,
+            "lexical": "stop process call should only be redirected to fox",
+            "itn": "stop process call should only be redirected to fox",
+            "maskedITN": "stop process call should only be redirected to fox",
+            "display": "Stop process call should only be redirected to Fox."
+        },
+        {
+            "channel": 1,
+            "lexical": "stop process call should only be redirected to fox",
+            "itn": "stop process call should only be redirected to fox",
+            "maskedITN": "stop process call should only be redirected to fox",
+            "display": "Stop process call should only be redirected to Fox."
+        }
+    ],
+    "recognizedPhrases": [
+        {
+            "recognitionStatus": "Success",
+            "channel": 0,
+            "offset": "PT1.41S",
+            "duration": "PT2.61S",
+            "offsetInTicks": 14100000.0,
+            "durationInTicks": 26100000.0,
+            "nBest": [
+                {
+                    "confidence": 0.64304316,
+                    "lexical": "stop process call should only be redirected to fox",
+                    "itn": "stop process call should only be redirected to fox",
+                    "maskedITN": "stop process call should only be redirected to fox",
+                    "display": "Stop process call should only be redirected to Fox.",
+                    "words": [
+                        {
+                            "word": "stop",
+                            "offset": "PT1.41S",
+                            "duration": "PT0.34S",
+                            "offsetInTicks": 14100000.0,
+                            "durationInTicks": 3400000.0,
+                            "confidence": 0.6721592
+                        },
+                        {
+                            "word": "process",
+                            "offset": "PT1.76S",
+                            "duration": "PT0.39S",
+                            "offsetInTicks": 17600000.0,
+                            "durationInTicks": 3900000.0,
+                            "confidence": 0.21801561
+                        },
+                        {
+                            "word": "call",
+                            "offset": "PT2.16S",
+                            "duration": "PT0.31S",
+                            "offsetInTicks": 21600000.0,
+                            "durationInTicks": 3100000.0,
+                            "confidence": 0.18699881
+                        },
+                        {
+                            "word": "should",
+                            "offset": "PT2.48S",
+                            "duration": "PT0.24S",
+                            "offsetInTicks": 24800000.0,
+                            "durationInTicks": 2400000.0,
+                            "confidence": 0.59056395
+                        },
+                        {
+                            "word": "only",
+                            "offset": "PT2.73S",
+                            "duration": "PT0.22S",
+                            "offsetInTicks": 27300000.0,
+                            "durationInTicks": 2200000.0,
+                            "confidence": 0.9660948
+                        },
+                        {
+                            "word": "be",
+                            "offset": "PT2.96S",
+                            "duration": "PT0.11S",
+                            "offsetInTicks": 29600000.0,
+                            "durationInTicks": 1100000.0,
+                            "confidence": 0.93733764
+                        },
+                        {
+                            "word": "redirected",
+                            "offset": "PT3.08S",
+                            "duration": "PT0.55S",
+                            "offsetInTicks": 30800000.0,
+                            "durationInTicks": 5500000.0,
+                            "confidence": 0.91118824
+                        },
+                        {
+                            "word": "to",
+                            "offset": "PT3.64S",
+                            "duration": "PT0.11S",
+                            "offsetInTicks": 36400000.0,
+                            "durationInTicks": 1100000.0,
+                            "confidence": 0.8640673
+                        },
+                        {
+                            "word": "fox",
+                            "offset": "PT3.76S",
+                            "duration": "PT0.26S",
+                            "offsetInTicks": 37600000.0,
+                            "durationInTicks": 2600000.0,
+                            "confidence": 0.76368356
+                        }
+                    ]
+                },
+                {
+                    "confidence": 0.6325665,
+                    "lexical": "and stop process call should only be redirected to fox",
+                    "itn": "and stop process call should only be redirected to fox",
+                    "maskedITN": "and stop process call should only be redirected to fox",
+                    "display": "and stop process call should only be redirected to fox",
+                    "words": [
+                        {
+                            "word": "and",
+                            "offset": "PT1.22S",
+                            "duration": "PT0.15S",
+                            "offsetInTicks": 12200000.0,
+                            "durationInTicks": 1500000.0,
+                            "confidence": 0.56823045
+                        },
+                        {
+                            "word": "stop",
+                            "offset": "PT1.38S",
+                            "duration": "PT0.37S",
+                            "offsetInTicks": 13800000.0,
+                            "durationInTicks": 3700000.0,
+                            "confidence": 0.53789747
+                        },
+                        {
+                            "word": "process",
+                            "offset": "PT1.76S",
+                            "duration": "PT0.39S",
+                            "offsetInTicks": 17600000.0,
+                            "durationInTicks": 3900000.0,
+                            "confidence": 0.29814008
+                        },
+                        {
+                            "word": "call",
+                            "offset": "PT2.16S",
+                            "duration": "PT0.31S",
+                            "offsetInTicks": 21600000.0,
+                            "durationInTicks": 3100000.0,
+                            "confidence": 0.18895775
+                        },
+                        {
+                            "word": "should",
+                            "offset": "PT2.48S",
+                            "duration": "PT0.24S",
+                            "offsetInTicks": 24800000.0,
+                            "durationInTicks": 2400000.0,
+                            "confidence": 0.59056395
+                        },
+                        {
+                            "word": "only",
+                            "offset": "PT2.73S",
+                            "duration": "PT0.22S",
+                            "offsetInTicks": 27300000.0,
+                            "durationInTicks": 2200000.0,
+                            "confidence": 0.9660948
+                        },
+                        {
+                            "word": "be",
+                            "offset": "PT2.96S",
+                            "duration": "PT0.11S",
+                            "offsetInTicks": 29600000.0,
+                            "durationInTicks": 1100000.0,
+                            "confidence": 0.93733764
+                        },
+                        {
+                            "word": "redirected",
+                            "offset": "PT3.08S",
+                            "duration": "PT0.55S",
+                            "offsetInTicks": 30800000.0,
+                            "durationInTicks": 5500000.0,
+                            "confidence": 0.91118824
+                        },
+                        {
+                            "word": "to",
+                            "offset": "PT3.64S",
+                            "duration": "PT0.11S",
+                            "offsetInTicks": 36400000.0,
+                            "durationInTicks": 1100000.0,
+                            "confidence": 0.8640673
+                        },
+                        {
+                            "word": "fox",
+                            "offset": "PT3.76S",
+                            "duration": "PT0.26S",
+                            "offsetInTicks": 37600000.0,
+                            "durationInTicks": 2600000.0,
+                            "confidence": 0.76368356
+                        }
+                    ]
+                },
+                {
+                    "confidence": 0.64408976,
+                    "lexical": "stop process call should only be redirected to folk",
+                    "itn": "stop process call should only be redirected to folk",
+                    "maskedITN": "stop process call should only be redirected to folk",
+                    "display": "stop process call should only be redirected to folk",
+                    "words": [
+                        {
+                            "word": "stop",
+                            "offset": "PT1.41S",
+                            "duration": "PT0.34S",
+                            "offsetInTicks": 14100000.0,
+                            "durationInTicks": 3400000.0,
+                            "confidence": 0.6721592
+                        },
+                        {
+                            "word": "process",
+                            "offset": "PT1.76S",
+                            "duration": "PT0.39S",
+                            "offsetInTicks": 17600000.0,
+                            "durationInTicks": 3900000.0,
+                            "confidence": 0.21801561
+                        },
+                        {
+                            "word": "call",
+                            "offset": "PT2.16S",
+                            "duration": "PT0.31S",
+                            "offsetInTicks": 21600000.0,
+                            "durationInTicks": 3100000.0,
+                            "confidence": 0.18699881
+                        },
+                        {
+                            "word": "should",
+                            "offset": "PT2.48S",
+                            "duration": "PT0.24S",
+                            "offsetInTicks": 24800000.0,
+                            "durationInTicks": 2400000.0,
+                            "confidence": 0.59056395
+                        },
+                        {
+                            "word": "only",
+                            "offset": "PT2.73S",
+                            "duration": "PT0.22S",
+                            "offsetInTicks": 27300000.0,
+                            "durationInTicks": 2200000.0,
+                            "confidence": 0.9660948
+                        },
+                        {
+                            "word": "be",
+                            "offset": "PT2.96S",
+                            "duration": "PT0.11S",
+                            "offsetInTicks": 29600000.0,
+                            "durationInTicks": 1100000.0,
+                            "confidence": 0.93733764
+                        },
+                        {
+                            "word": "redirected",
+                            "offset": "PT3.08S",
+                            "duration": "PT0.55S",
+                            "offsetInTicks": 30800000.0,
+                            "durationInTicks": 5500000.0,
+                            "confidence": 0.91118824
+                        },
+                        {
+                            "word": "to",
+                            "offset": "PT3.64S",
+                            "duration": "PT0.11S",
+                            "offsetInTicks": 36400000.0,
+                            "durationInTicks": 1100000.0,
+                            "confidence": 0.8640673
+                        },
+                        {
+                            "word": "folk",
+                            "offset": "PT3.76S",
+                            "duration": "PT0.26S",
+                            "offsetInTicks": 37600000.0,
+                            "durationInTicks": 2600000.0,
+                            "confidence": 0.7738396
+                        }
+                    ]
+                },
+                {
+                    "confidence": 0.6335423,
+                    "lexical": "and stop process call should only be redirected to folk",
+                    "itn": "and stop process call should only be redirected to folk",
+                    "maskedITN": "and stop process call should only be redirected to folk",
+                    "display": "and stop process call should only be redirected to folk",
+                    "words": [
+                        {
+                            "word": "and",
+                            "offset": "PT1.22S",
+                            "duration": "PT0.15S",
+                            "offsetInTicks": 12200000.0,
+                            "durationInTicks": 1500000.0,
+                            "confidence": 0.56823045
+                        },
+                        {
+                            "word": "stop",
+                            "offset": "PT1.38S",
+                            "duration": "PT0.37S",
+                            "offsetInTicks": 13800000.0,
+                            "durationInTicks": 3700000.0,
+                            "confidence": 0.53789747
+                        },
+                        {
+                            "word": "process",
+                            "offset": "PT1.76S",
+                            "duration": "PT0.39S",
+                            "offsetInTicks": 17600000.0,
+                            "durationInTicks": 3900000.0,
+                            "confidence": 0.29814008
+                        },
+                        {
+                            "word": "call",
+                            "offset": "PT2.16S",
+                            "duration": "PT0.31S",
+                            "offsetInTicks": 21600000.0,
+                            "durationInTicks": 3100000.0,
+                            "confidence": 0.18895775
+                        },
+                        {
+                            "word": "should",
+                            "offset": "PT2.48S",
+                            "duration": "PT0.24S",
+                            "offsetInTicks": 24800000.0,
+                            "durationInTicks": 2400000.0,
+                            "confidence": 0.59056395
+                        },
+                        {
+                            "word": "only",
+                            "offset": "PT2.73S",
+                            "duration": "PT0.22S",
+                            "offsetInTicks": 27300000.0,
+                            "durationInTicks": 2200000.0,
+                            "confidence": 0.9660948
+                        },
+                        {
+                            "word": "be",
+                            "offset": "PT2.96S",
+                            "duration": "PT0.11S",
+                            "offsetInTicks": 29600000.0,
+                            "durationInTicks": 1100000.0,
+                            "confidence": 0.93733764
+                        },
+                        {
+                            "word": "redirected",
+                            "offset": "PT3.08S",
+                            "duration": "PT0.55S",
+                            "offsetInTicks": 30800000.0,
+                            "durationInTicks": 5500000.0,
+                            "confidence": 0.91118824
+                        },
+                        {
+                            "word": "to",
+                            "offset": "PT3.64S",
+                            "duration": "PT0.11S",
+                            "offsetInTicks": 36400000.0,
+                            "durationInTicks": 1100000.0,
+                            "confidence": 0.8640673
+                        },
+                        {
+                            "word": "folk",
+                            "offset": "PT3.76S",
+                            "duration": "PT0.26S",
+                            "offsetInTicks": 37600000.0,
+                            "durationInTicks": 2600000.0,
+                            "confidence": 0.7738396
+                        }
+                    ]
+                },
+                {
+                    "confidence": 0.63651526,
+                    "lexical": "and stop process call should only be redirected to focus",
+                    "itn": "and stop process call should only be redirected to focus",
+                    "maskedITN": "and stop process call should only be redirected to focus",
+                    "display": "and stop process call should only be redirected to focus",
+                    "words": [
+                        {
+                            "word": "and",
+                            "offset": "PT1.22S",
+                            "duration": "PT0.16S",
+                            "offsetInTicks": 12200000.0,
+                            "durationInTicks": 1600000.0,
+                            "confidence": 0.5590819
+                        },
+                        {
+                            "word": "stop",
+                            "offset": "PT1.39S",
+                            "duration": "PT0.36S",
+                            "offsetInTicks": 13900000.0,
+                            "durationInTicks": 3600000.0,
+                            "confidence": 0.55322134
+                        },
+                        {
+                            "word": "process",
+                            "offset": "PT1.76S",
+                            "duration": "PT0.39S",
+                            "offsetInTicks": 17600000.0,
+                            "durationInTicks": 3900000.0,
+                            "confidence": 0.29814008
+                        },
+                        {
+                            "word": "call",
+                            "offset": "PT2.16S",
+                            "duration": "PT0.31S",
+                            "offsetInTicks": 21600000.0,
+                            "durationInTicks": 3100000.0,
+                            "confidence": 0.18895775
+                        },
+                        {
+                            "word": "should",
+                            "offset": "PT2.48S",
+                            "duration": "PT0.24S",
+                            "offsetInTicks": 24800000.0,
+                            "durationInTicks": 2400000.0,
+                            "confidence": 0.59056395
+                        },
+                        {
+                            "word": "only",
+                            "offset": "PT2.73S",
+                            "duration": "PT0.22S",
+                            "offsetInTicks": 27300000.0,
+                            "durationInTicks": 2200000.0,
+                            "confidence": 0.9660948
+                        },
+                        {
+                            "word": "be",
+                            "offset": "PT2.96S",
+                            "duration": "PT0.11S",
+                            "offsetInTicks": 29600000.0,
+                            "durationInTicks": 1100000.0,
+                            "confidence": 0.93733764
+                        },
+                        {
+                            "word": "redirected",
+                            "offset": "PT3.08S",
+                            "duration": "PT0.55S",
+                            "offsetInTicks": 30800000.0,
+                            "durationInTicks": 5500000.0,
+                            "confidence": 0.91118824
+                        },
+                        {
+                            "word": "to",
+                            "offset": "PT3.64S",
+                            "duration": "PT0.11S",
+                            "offsetInTicks": 36400000.0,
+                            "durationInTicks": 1100000.0,
+                            "confidence": 0.8640673
+                        },
+                        {
+                            "word": "focus",
+                            "offset": "PT3.76S",
+                            "duration": "PT0.26S",
+                            "offsetInTicks": 37600000.0,
+                            "durationInTicks": 2600000.0,
+                            "confidence": 0.7884176
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "recognitionStatus": "Success",
+            "channel": 1,
+            "offset": "PT1.41S",
+            "duration": "PT2.61S",
+            "offsetInTicks": 14100000.0,
+            "durationInTicks": 26100000.0,
+            "nBest": [
+                {
+                    "confidence": 0.6446515,
+                    "lexical": "stop process call should only be redirected to fox",
+                    "itn": "stop process call should only be redirected to fox",
+                    "maskedITN": "stop process call should only be redirected to fox",
+                    "display": "Stop process call should only be redirected to Fox.",
+                    "words": [
+                        {
+                            "word": "stop",
+                            "offset": "PT1.41S",
+                            "duration": "PT0.34S",
+                            "offsetInTicks": 14100000.0,
+                            "durationInTicks": 3400000.0,
+                            "confidence": 0.67429066
+                        },
+                        {
+                            "word": "process",
+                            "offset": "PT1.76S",
+                            "duration": "PT0.39S",
+                            "offsetInTicks": 17600000.0,
+                            "durationInTicks": 3900000.0,
+                            "confidence": 0.22712183
+                        },
+                        {
+                            "word": "call",
+                            "offset": "PT2.16S",
+                            "duration": "PT0.31S",
+                            "offsetInTicks": 21600000.0,
+                            "durationInTicks": 3100000.0,
+                            "confidence": 0.19401431
+                        },
+                        {
+                            "word": "should",
+                            "offset": "PT2.48S",
+                            "duration": "PT0.24S",
+                            "offsetInTicks": 24800000.0,
+                            "durationInTicks": 2400000.0,
+                            "confidence": 0.59056395
+                        },
+                        {
+                            "word": "only",
+                            "offset": "PT2.73S",
+                            "duration": "PT0.22S",
+                            "offsetInTicks": 27300000.0,
+                            "durationInTicks": 2200000.0,
+                            "confidence": 0.9666978
+                        },
+                        {
+                            "word": "be",
+                            "offset": "PT2.96S",
+                            "duration": "PT0.11S",
+                            "offsetInTicks": 29600000.0,
+                            "durationInTicks": 1100000.0,
+                            "confidence": 0.9368822
+                        },
+                        {
+                            "word": "redirected",
+                            "offset": "PT3.08S",
+                            "duration": "PT0.55S",
+                            "offsetInTicks": 30800000.0,
+                            "durationInTicks": 5500000.0,
+                            "confidence": 0.91118824
+                        },
+                        {
+                            "word": "to",
+                            "offset": "PT3.64S",
+                            "duration": "PT0.11S",
+                            "offsetInTicks": 36400000.0,
+                            "durationInTicks": 1100000.0,
+                            "confidence": 0.85565186
+                        },
+                        {
+                            "word": "fox",
+                            "offset": "PT3.76S",
+                            "duration": "PT0.26S",
+                            "offsetInTicks": 37600000.0,
+                            "durationInTicks": 2600000.0,
+                            "confidence": 0.7581512
+                        }
+                    ]
+                },
+                {
+                    "confidence": 0.5546807,
+                    "lexical": "hope and stop process call should only be redirected to fox",
+                    "itn": "hope and stop process call should only be redirected to fox",
+                    "maskedITN": "hope and stop process call should only be redirected to fox",
+                    "display": "hope and stop process call should only be redirected to fox",
+                    "words": [
+                        {
+                            "word": "hope",
+                            "offset": "PT0.76S",
+                            "duration": "PT0.45S",
+                            "offsetInTicks": 7600000.0,
+                            "durationInTicks": 4500000.0,
+                            "confidence": 0.054736733
+                        },
+                        {
+                            "word": "and",
+                            "offset": "PT1.22S",
+                            "duration": "PT0.17S",
+                            "offsetInTicks": 12200000.0,
+                            "durationInTicks": 1700000.0,
+                            "confidence": 0.5109675
+                        },
+                        {
+                            "word": "stop",
+                            "offset": "PT1.4S",
+                            "duration": "PT0.35S",
+                            "offsetInTicks": 14000000.0,
+                            "durationInTicks": 3500000.0,
+                            "confidence": 0.53420234
+                        },
+                        {
+                            "word": "process",
+                            "offset": "PT1.76S",
+                            "duration": "PT0.39S",
+                            "offsetInTicks": 17600000.0,
+                            "durationInTicks": 3900000.0,
+                            "confidence": 0.35388172
+                        },
+                        {
+                            "word": "call",
+                            "offset": "PT2.16S",
+                            "duration": "PT0.31S",
+                            "offsetInTicks": 21600000.0,
+                            "durationInTicks": 3100000.0,
+                            "confidence": 0.19604862
+                        },
+                        {
+                            "word": "should",
+                            "offset": "PT2.48S",
+                            "duration": "PT0.24S",
+                            "offsetInTicks": 24800000.0,
+                            "durationInTicks": 2400000.0,
+                            "confidence": 0.59056395
+                        },
+                        {
+                            "word": "only",
+                            "offset": "PT2.73S",
+                            "duration": "PT0.22S",
+                            "offsetInTicks": 27300000.0,
+                            "durationInTicks": 2200000.0,
+                            "confidence": 0.9666978
+                        },
+                        {
+                            "word": "be",
+                            "offset": "PT2.96S",
+                            "duration": "PT0.11S",
+                            "offsetInTicks": 29600000.0,
+                            "durationInTicks": 1100000.0,
+                            "confidence": 0.9368822
+                        },
+                        {
+                            "word": "redirected",
+                            "offset": "PT3.08S",
+                            "duration": "PT0.55S",
+                            "offsetInTicks": 30800000.0,
+                            "durationInTicks": 5500000.0,
+                            "confidence": 0.91118824
+                        },
+                        {
+                            "word": "to",
+                            "offset": "PT3.64S",
+                            "duration": "PT0.11S",
+                            "offsetInTicks": 36400000.0,
+                            "durationInTicks": 1100000.0,
+                            "confidence": 0.85565186
+                        },
+                        {
+                            "word": "fox",
+                            "offset": "PT3.76S",
+                            "duration": "PT0.26S",
+                            "offsetInTicks": 37600000.0,
+                            "durationInTicks": 2600000.0,
+                            "confidence": 0.7581512
+                        }
+                    ]
+                },
+                {
+                    "confidence": 0.6377706,
+                    "lexical": "and stop process call should only be redirected to fox",
+                    "itn": "and stop process call should only be redirected to fox",
+                    "maskedITN": "and stop process call should only be redirected to fox",
+                    "display": "and stop process call should only be redirected to fox",
+                    "words": [
+                        {
+                            "word": "and",
+                            "offset": "PT1.22S",
+                            "duration": "PT0.17S",
+                            "offsetInTicks": 12200000.0,
+                            "durationInTicks": 1700000.0,
+                            "confidence": 0.5545839
+                        },
+                        {
+                            "word": "stop",
+                            "offset": "PT1.4S",
+                            "duration": "PT0.35S",
+                            "offsetInTicks": 14000000.0,
+                            "durationInTicks": 3500000.0,
+                            "confidence": 0.5694118
+                        },
+                        {
+                            "word": "process",
+                            "offset": "PT1.76S",
+                            "duration": "PT0.39S",
+                            "offsetInTicks": 17600000.0,
+                            "durationInTicks": 3900000.0,
+                            "confidence": 0.31133685
+                        },
+                        {
+                            "word": "call",
+                            "offset": "PT2.16S",
+                            "duration": "PT0.31S",
+                            "offsetInTicks": 21600000.0,
+                            "durationInTicks": 3100000.0,
+                            "confidence": 0.19604862
+                        },
+                        {
+                            "word": "should",
+                            "offset": "PT2.48S",
+                            "duration": "PT0.24S",
+                            "offsetInTicks": 24800000.0,
+                            "durationInTicks": 2400000.0,
+                            "confidence": 0.59056395
+                        },
+                        {
+                            "word": "only",
+                            "offset": "PT2.73S",
+                            "duration": "PT0.22S",
+                            "offsetInTicks": 27300000.0,
+                            "durationInTicks": 2200000.0,
+                            "confidence": 0.9666978
+                        },
+                        {
+                            "word": "be",
+                            "offset": "PT2.96S",
+                            "duration": "PT0.11S",
+                            "offsetInTicks": 29600000.0,
+                            "durationInTicks": 1100000.0,
+                            "confidence": 0.9368822
+                        },
+                        {
+                            "word": "redirected",
+                            "offset": "PT3.08S",
+                            "duration": "PT0.55S",
+                            "offsetInTicks": 30800000.0,
+                            "durationInTicks": 5500000.0,
+                            "confidence": 0.91118824
+                        },
+                        {
+                            "word": "to",
+                            "offset": "PT3.64S",
+                            "duration": "PT0.11S",
+                            "offsetInTicks": 36400000.0,
+                            "durationInTicks": 1100000.0,
+                            "confidence": 0.85565186
+                        },
+                        {
+                            "word": "fox",
+                            "offset": "PT3.76S",
+                            "duration": "PT0.26S",
+                            "offsetInTicks": 37600000.0,
+                            "durationInTicks": 2600000.0,
+                            "confidence": 0.7581512
+                        }
+                    ]
+                },
+                {
+                    "confidence": 0.55557203,
+                    "lexical": "hope and stop process call should only be redirected to folk",
+                    "itn": "hope and stop process call should only be redirected to folk",
+                    "maskedITN": "hope and stop process call should only be redirected to folk",
+                    "display": "hope and stop process call should only be redirected to folk",
+                    "words": [
+                        {
+                            "word": "hope",
+                            "offset": "PT0.76S",
+                            "duration": "PT0.45S",
+                            "offsetInTicks": 7600000.0,
+                            "durationInTicks": 4500000.0,
+                            "confidence": 0.054736733
+                        },
+                        {
+                            "word": "and",
+                            "offset": "PT1.22S",
+                            "duration": "PT0.17S",
+                            "offsetInTicks": 12200000.0,
+                            "durationInTicks": 1700000.0,
+                            "confidence": 0.5109675
+                        },
+                        {
+                            "word": "stop",
+                            "offset": "PT1.4S",
+                            "duration": "PT0.35S",
+                            "offsetInTicks": 14000000.0,
+                            "durationInTicks": 3500000.0,
+                            "confidence": 0.53420234
+                        },
+                        {
+                            "word": "process",
+                            "offset": "PT1.76S",
+                            "duration": "PT0.39S",
+                            "offsetInTicks": 17600000.0,
+                            "durationInTicks": 3900000.0,
+                            "confidence": 0.35388172
+                        },
+                        {
+                            "word": "call",
+                            "offset": "PT2.16S",
+                            "duration": "PT0.31S",
+                            "offsetInTicks": 21600000.0,
+                            "durationInTicks": 3100000.0,
+                            "confidence": 0.19604862
+                        },
+                        {
+                            "word": "should",
+                            "offset": "PT2.48S",
+                            "duration": "PT0.24S",
+                            "offsetInTicks": 24800000.0,
+                            "durationInTicks": 2400000.0,
+                            "confidence": 0.59056395
+                        },
+                        {
+                            "word": "only",
+                            "offset": "PT2.73S",
+                            "duration": "PT0.22S",
+                            "offsetInTicks": 27300000.0,
+                            "durationInTicks": 2200000.0,
+                            "confidence": 0.9666978
+                        },
+                        {
+                            "word": "be",
+                            "offset": "PT2.96S",
+                            "duration": "PT0.11S",
+                            "offsetInTicks": 29600000.0,
+                            "durationInTicks": 1100000.0,
+                            "confidence": 0.9368822
+                        },
+                        {
+                            "word": "redirected",
+                            "offset": "PT3.08S",
+                            "duration": "PT0.55S",
+                            "offsetInTicks": 30800000.0,
+                            "durationInTicks": 5500000.0,
+                            "confidence": 0.91118824
+                        },
+                        {
+                            "word": "to",
+                            "offset": "PT3.64S",
+                            "duration": "PT0.11S",
+                            "offsetInTicks": 36400000.0,
+                            "durationInTicks": 1100000.0,
+                            "confidence": 0.85565186
+                        },
+                        {
+                            "word": "folk",
+                            "offset": "PT3.76S",
+                            "duration": "PT0.26S",
+                            "offsetInTicks": 37600000.0,
+                            "durationInTicks": 2600000.0,
+                            "confidence": 0.768946
+                        }
+                    ]
+                },
+                {
+                    "confidence": 0.55657566,
+                    "lexical": "hope and stop process call should only be redirected to focus",
+                    "itn": "hope and stop process call should only be redirected to focus",
+                    "maskedITN": "hope and stop process call should only be redirected to focus",
+                    "display": "hope and stop process call should only be redirected to focus",
+                    "words": [
+                        {
+                            "word": "hope",
+                            "offset": "PT0.76S",
+                            "duration": "PT0.45S",
+                            "offsetInTicks": 7600000.0,
+                            "durationInTicks": 4500000.0,
+                            "confidence": 0.054736733
+                        },
+                        {
+                            "word": "and",
+                            "offset": "PT1.22S",
+                            "duration": "PT0.17S",
+                            "offsetInTicks": 12200000.0,
+                            "durationInTicks": 1700000.0,
+                            "confidence": 0.5109675
+                        },
+                        {
+                            "word": "stop",
+                            "offset": "PT1.4S",
+                            "duration": "PT0.35S",
+                            "offsetInTicks": 14000000.0,
+                            "durationInTicks": 3500000.0,
+                            "confidence": 0.53420234
+                        },
+                        {
+                            "word": "process",
+                            "offset": "PT1.76S",
+                            "duration": "PT0.39S",
+                            "offsetInTicks": 17600000.0,
+                            "durationInTicks": 3900000.0,
+                            "confidence": 0.35388172
+                        },
+                        {
+                            "word": "call",
+                            "offset": "PT2.16S",
+                            "duration": "PT0.31S",
+                            "offsetInTicks": 21600000.0,
+                            "durationInTicks": 3100000.0,
+                            "confidence": 0.19604862
+                        },
+                        {
+                            "word": "should",
+                            "offset": "PT2.48S",
+                            "duration": "PT0.24S",
+                            "offsetInTicks": 24800000.0,
+                            "durationInTicks": 2400000.0,
+                            "confidence": 0.59056395
+                        },
+                        {
+                            "word": "only",
+                            "offset": "PT2.73S",
+                            "duration": "PT0.22S",
+                            "offsetInTicks": 27300000.0,
+                            "durationInTicks": 2200000.0,
+                            "confidence": 0.9666978
+                        },
+                        {
+                            "word": "be",
+                            "offset": "PT2.96S",
+                            "duration": "PT0.11S",
+                            "offsetInTicks": 29600000.0,
+                            "durationInTicks": 1100000.0,
+                            "confidence": 0.9368822
+                        },
+                        {
+                            "word": "redirected",
+                            "offset": "PT3.08S",
+                            "duration": "PT0.55S",
+                            "offsetInTicks": 30800000.0,
+                            "durationInTicks": 5500000.0,
+                            "confidence": 0.91118824
+                        },
+                        {
+                            "word": "to",
+                            "offset": "PT3.64S",
+                            "duration": "PT0.11S",
+                            "offsetInTicks": 36400000.0,
+                            "durationInTicks": 1100000.0,
+                            "confidence": 0.85565186
+                        },
+                        {
+                            "word": "focus",
+                            "offset": "PT3.76S",
+                            "duration": "PT0.26S",
+                            "offsetInTicks": 37600000.0,
+                            "durationInTicks": 2600000.0,
+                            "confidence": 0.78110117
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
