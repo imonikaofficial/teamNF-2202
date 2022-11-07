@@ -1,0 +1,14 @@
+ffmpeg	https://blog.gregzaal.com/how-to-install-ffmpeg-on-windows/
+pydub	
+azure (pip install azure-storage-blob azure-identity ; pip install azure-cognitiveservices-speech)
+moviepy
+tensorflow
+pickle-mixin
+numpy
+keras (pip install keras --upgrade)
+opencv-python
+image-similarity-measures
+
+#use setx command for keys for azure resources in cmd (speech, storage)
+setx SPEECH_KEY <speech_key> 
+setx AZURE_STORAGE_CONNECTION_STRING <connection_string>
